@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Evolutia Personalità RoadStar - Prototype Pickup On-Demand ⚡
+## Evo Personalità RoadStar - Evolutia Prototype Pickup On-Demand ⚡
 ---
 
 ![Image](https://github.com/user-attachments/assets/429aeb6e-c1c5-47cb-9ccf-867760593fc3)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/75f7f61e-3097-44bc-ae44-df6c57eb440e)
 
-## Evolutia Personalità Savana - Prototype Pickup On-Demand ⚡
+## Evo Personalità Savana - Evolutia Prototype Pickup On-Demand ⚡
 
 ![Image](https://github.com/user-attachments/assets/da263aca-4682-4a01-89cf-1b30cd199b7c)
 
