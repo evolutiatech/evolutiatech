@@ -2,6 +2,10 @@
 
 ![Image](https://github.com/user-attachments/assets/203d0000-29f9-477b-a6da-c1bb45875fea)
 
+## Evo DANKAR - Picture in Picture ⚡
+
+![Image](https://github.com/user-attachments/assets/59288880-50bd-419d-b33e-9a3e9d2d14c5)
+
 ## Evo NEO JEGE - Picture in Picture ⚡
 
 ![Image](https://github.com/user-attachments/assets/7293ee01-47ec-4c13-9c5f-046b8fd6de0f)
