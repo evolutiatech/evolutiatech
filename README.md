@@ -1,6 +1,6 @@
 ## Evo CARE STATION - Picture in Picture ⚡
 
-![Image](https://github.com/user-attachments/assets/dacb61a4-89d4-4975-b831-d2d3b1937845)
+![Image](https://github.com/user-attachments/assets/a41b0a30-5756-4032-af7b-77787db1cee6)
 
 ## Evo GAMAL STATION - Picture in Picture ⚡
 
