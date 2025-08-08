@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Prototype Pickup On-Demand ⚡
-
-### Evolutia Personalità RoadStar
+## Evolutia Personalità RoadStar - Prototype Pickup On-Demand ⚡
 
 ![Image](https://github.com/user-attachments/assets/d94f1a52-25e6-4b60-8b76-f68d06836a23)
 
