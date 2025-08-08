@@ -1,5 +1,7 @@
 ## Evo Desert - Evolutia Prototype Pickup On-Demand
 
+![Image](https://github.com/user-attachments/assets/37f7904b-4bac-4c83-a875-55b27f911e14)
+
 ![Image](https://github.com/user-attachments/assets/80b5d1a9-6d27-4d6f-8fa8-fbee60382957)
 
 ## Evo Personalità - Picture in Picture ⚡
