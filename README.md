@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/c9296c45-daca-4466-acf8-627daed92683)
 
+![Image](https://github.com/user-attachments/assets/da263aca-4682-4a01-89cf-1b30cd199b7c)
+
 ---
 
 ![Image](https://github.com/user-attachments/assets/85dcab43-e899-4107-a3b3-d7801b95fd7a)
