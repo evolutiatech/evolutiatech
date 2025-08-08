@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ---
 ![Image](https://github.com/user-attachments/assets/dfb2309f-ccc2-4160-8396-3b5d97021822)
 
+![Image](https://github.com/user-attachments/assets/75f7f61e-3097-44bc-ae44-df6c57eb440e)
+
 ## Evolutia Personalità Savana - Prototype Pickup On-Demand ⚡
 
 ![Image](https://github.com/user-attachments/assets/da263aca-4682-4a01-89cf-1b30cd199b7c)
