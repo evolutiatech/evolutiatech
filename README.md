@@ -1,3 +1,7 @@
+## Evo TRUCK MARS - Picture in Picture ⚡
+
+![Image](https://github.com/user-attachments/assets/f1bf5bd9-82ba-4df2-8ba5-e7b65b2ccacd)
+
 ## Evo CARE STATION - Picture in Picture ⚡
 
 ![Image](https://github.com/user-attachments/assets/a41b0a30-5756-4032-af7b-77787db1cee6)
