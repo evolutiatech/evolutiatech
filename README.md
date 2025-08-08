@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/429aeb6e-c1c5-47cb-9ccf-867760593fc3)
 
-## Evo Personalità RoadStar - Evolutia Prototype Pickup On-Demand ⚡
+## Evo Personalità - Evolutia Prototype Pickup On-Demand ⚡
 
 ---
 
