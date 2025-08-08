@@ -1,6 +1,6 @@
 ## Evo MARS POP STARS - Picture in Picture ⚡
 
-![Image](https://github.com/user-attachments/assets/280b2bc1-ab5b-4b40-bb1c-131e44002220)
+![Image](https://github.com/user-attachments/assets/884cda87-7e20-440a-a59d-5a25d667c41f)
 
 ## Evo SAFARI MARS - Picture in Picture ⚡
 
