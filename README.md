@@ -1,5 +1,7 @@
 ## Evo Desert - Evolutia Prototype Pickup On-Demand
 
+![Image](https://github.com/user-attachments/assets/c4ff120a-7594-4722-ae64-2ab5c83c1b55)
+
 ![Image](https://github.com/user-attachments/assets/5d35f1d4-ca4a-4cd3-9ef4-c829bfdfc3a1)
 
 ![Image](https://github.com/user-attachments/assets/52382b75-e071-4930-99b7-b1d5c6bde37d)
