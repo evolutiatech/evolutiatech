@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## Evolutia Pickup Prototype RoadStar ⚡
 
+![Image](https://github.com/user-attachments/assets/d94f1a52-25e6-4b60-8b76-f68d06836a23)
+
 ![Image](https://github.com/user-attachments/assets/f22eca61-1bb3-4a46-90ec-d653d33a0deb)
 
 ![Image](https://github.com/user-attachments/assets/44f3fb7d-b6ae-4c9a-ac25-50b5fd6d360b)
