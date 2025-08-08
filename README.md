@@ -1,6 +1,8 @@
 
 ## Evo Personalità - Picture in Picture ⚡
 
+![Image](https://github.com/user-attachments/assets/54668673-dedc-4a20-b0f4-8c8a7879d377)
+
 ![Image](https://github.com/user-attachments/assets/4289ce6a-95d9-4614-ad25-8943610adb01)
 
 ![Image](https://github.com/user-attachments/assets/f10ab191-87ec-45ed-b1ee-adb63186c0fb)
