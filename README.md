@@ -1,3 +1,7 @@
+## Evo SAFARI MARS - Picture in Picture ⚡
+
+![Image](https://github.com/user-attachments/assets/04bcd6e5-b444-45d5-b1b6-30b21d02eb48)
+
 ## Evo BATH POOL MARS - Picture in Picture ⚡
 
 ![Image](https://github.com/user-attachments/assets/364a42d6-e205-482b-817a-933eedc21942)
