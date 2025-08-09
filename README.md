@@ -2,6 +2,8 @@
 
 ![Image](https://github.com/user-attachments/assets/62eda035-419b-4706-a338-b8f9a2e782ac)
 
+![Image](https://github.com/user-attachments/assets/de1573a6-82df-4705-a581-854e34ff5d59)
+
 ## Formula EVO - Official Car ⚡
 
 ![Image](https://github.com/user-attachments/assets/82b44f63-e338-497b-bdae-48334106a1b2)
