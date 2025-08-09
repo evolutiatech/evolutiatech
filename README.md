@@ -1,3 +1,7 @@
+## Formula EVO - Prototype Car - Pilot Protected ⚡
+
+![Image](https://github.com/user-attachments/assets/62eda035-419b-4706-a338-b8f9a2e782ac)
+
 ## Formula EVO - Official Car ⚡
 
 ![Image](https://github.com/user-attachments/assets/82b44f63-e338-497b-bdae-48334106a1b2)
