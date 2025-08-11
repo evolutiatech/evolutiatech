@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Evo Cyber Truck ⚡
+## Evo Sport Truck ⚡
+
+![Image](https://github.com/user-attachments/assets/ce371506-c017-4627-a014-618fa07ebb18)
 
 ![Image](https://github.com/user-attachments/assets/0ecff6e6-7452-454e-8553-46fa1183184e)
 
