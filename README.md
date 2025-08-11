@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **evolutiatech/evolutiatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Evolutia Technologies 👋
+
+![Image](https://github.com/user-attachments/assets/43185f12-876b-49ec-90f6-df115cfe62fb)
