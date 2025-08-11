@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## Evo Sport Helicopter 14 Bis⚡
 
+![Image](https://github.com/user-attachments/assets/01a31e70-41e8-4c12-9b5e-d204e20d86e2)
+
 ![Image](https://github.com/user-attachments/assets/fa15991d-6b34-40fa-81ab-a31acb611fb6)
 
 ## Evo Sport Helicopter⚡
