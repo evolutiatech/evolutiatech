@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Evolutia Technologies 👋
+## Evolutia Technologies ⚡
 
 ![Image](https://github.com/user-attachments/assets/43185f12-876b-49ec-90f6-df115cfe62fb)
