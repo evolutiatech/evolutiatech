@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/54cf04fa-8eb9-4c17-8612-15fcc3ae88ac)
 
-![Image](https://github.com/user-attachments/assets/7fb745b4-e396-4b33-bbdf-bb84590119f5)
+![Image](https://github.com/user-attachments/assets/a0bb530a-861b-4aa9-99c0-883b9b964744)
 
 ![Image](https://github.com/user-attachments/assets/e968825c-413e-48d2-95cb-7cda5d264550)
 
