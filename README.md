@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Evo Soldier Guardians⚡
+
+![Image](https://github.com/user-attachments/assets/8ca35400-043d-45be-ab20-77a89dd0f4a1)
+
 ## Evo Police Soldier⚡
 
 ![Image](https://github.com/user-attachments/assets/68c0426a-e374-4a07-8973-6ce76358886a)
