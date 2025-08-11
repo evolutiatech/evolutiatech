@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## Evo Star Guardians⚡
 
+![Image](https://github.com/user-attachments/assets/72bdf2ee-b585-4bd9-8c97-404a6a848986)
+
 ![Image](https://github.com/user-attachments/assets/9e5ac028-b6b6-42f0-be48-14321106f130)
 
 ![Image](https://github.com/user-attachments/assets/c806cbf7-12ef-4c0a-85f5-f5c172e9a826)
