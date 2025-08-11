@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/0ecff6e6-7452-454e-8553-46fa1183184e)
 
+![Image](https://github.com/user-attachments/assets/c5fe2373-b429-46f9-a97d-a446c39e523c)
+
 ## Evo Pick-Up Truck ⚡
 
 ![Image](https://github.com/user-attachments/assets/43185f12-876b-49ec-90f6-df115cfe62fb)
