@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Evo Sport Speedboat ⚡
+
+![Image](https://github.com/user-attachments/assets/2fd05864-fd8f-4b1c-9601-e0bf5aa38e03)
+
 ## Evo Sport Jet Ski ⚡
 
 ![Image](https://github.com/user-attachments/assets/1c9060fa-91d2-4bf0-a952-c16cfa740b38)
