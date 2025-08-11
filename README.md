@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Evo Soldier Guardians⚡
+## Evo Star Guardians⚡
+
+![Image](https://github.com/user-attachments/assets/13a94627-841f-4f69-9e8b-148a3367c445)
 
 ![Image](https://github.com/user-attachments/assets/8ca35400-043d-45be-ab20-77a89dd0f4a1)
 
