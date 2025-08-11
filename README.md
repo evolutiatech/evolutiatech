@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Evo Sport Helicopter 14 Bis⚡
+
+![Image](https://github.com/user-attachments/assets/fa15991d-6b34-40fa-81ab-a31acb611fb6)
+
 ## Evo Sport Helicopter⚡
 
 ![Image](https://github.com/user-attachments/assets/4783cf10-a444-47ef-a90d-f3f907641998)
