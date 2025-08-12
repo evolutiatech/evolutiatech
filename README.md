@@ -13,15 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stellar Guardians - Earth Adventure "V" ⚡
+## Stellar Guardians - Earth Mission Adventure ⚡
 
 ![Image](https://github.com/user-attachments/assets/9085094a-282e-4f9d-b04b-ec01b8924d42)
-
-## Stellar Guardians - Crazy formula ⚡
-
-![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
-
-## Stellar Guardians - Earth Mission Patrol ⚡
 
 ![Image](https://github.com/user-attachments/assets/2d73541c-90de-42e5-8a50-91c7a92875a7)
 
@@ -39,6 +33,7 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/2e4d2cc1-9a8d-4ed0-b18f-1bfe2b337415)
 
+
 ## Stellar Guardians - Explorer ⚡
 
 ![Image](https://github.com/user-attachments/assets/116b147b-30ce-41cd-af84-b3e8e7ee96cc)
@@ -51,6 +46,9 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/d5b3101f-9465-4a5a-a97a-e74a16bf6bc5)
 
+## Stellar Guardians - Crazy formula ⚡
+
+![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
 
 ## Stellar Guardians - Dual ECO Bus ⚡
 
