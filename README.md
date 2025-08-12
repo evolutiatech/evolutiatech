@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stellar Guardians - Adventure Track ⚡
+## Stellar Guardians - Earth Adventure Track ⚡
+
+![Image](https://github.com/user-attachments/assets/48cf980d-7187-43cc-ad6c-091e98371cb1)
 
 ![Image](https://github.com/user-attachments/assets/d5b3101f-9465-4a5a-a97a-e74a16bf6bc5)
 
