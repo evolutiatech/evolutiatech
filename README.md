@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## Stellar Guardians - Earth Adventure "V" ⚡
 
+![Image](https://github.com/user-attachments/assets/9085094a-282e-4f9d-b04b-ec01b8924d42)
+
 ![Image](https://github.com/user-attachments/assets/116b147b-30ce-41cd-af84-b3e8e7ee96cc)
 
 ![Image](https://github.com/user-attachments/assets/3508c799-78bc-4f35-83ad-a507797a150a)
