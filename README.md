@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Evo Draws - Stellar Guardians Patrol - Earth Mission ⚡
+## Evo Draws - Stellar Guardians - Earth Mission Patrol ⚡
 
 ![Image](https://github.com/user-attachments/assets/7b73d9df-6a73-4e49-adf8-b79b30a6d154)
 
