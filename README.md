@@ -46,10 +46,6 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/d5b3101f-9465-4a5a-a97a-e74a16bf6bc5)
 
-## Stellar Guardians - Water Explorer ⚡
-
-![Image](https://github.com/user-attachments/assets/fadfba20-e461-4978-8a31-2a0599800f64)
-
 ## Stellar Guardians - Dual ECO Bus ⚡
 
 ![Image](https://github.com/user-attachments/assets/810b814c-3c24-4ff2-aad9-acba49f75a10)
@@ -61,6 +57,10 @@ Here are some ideas to get you started:
 ## Stellar Guardians - Crazy formula ⚡
 
 ![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
+
+## Stellar Guardians - Water Explorer ⚡
+
+![Image](https://github.com/user-attachments/assets/fadfba20-e461-4978-8a31-2a0599800f64)
 
 ## Evo Draws - Stellar Guardians ⚡
 
