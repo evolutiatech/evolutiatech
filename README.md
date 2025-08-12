@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stellar Guardians - Dual ECO Bus ⚡
-
-![Image](https://github.com/user-attachments/assets/810b814c-3c24-4ff2-aad9-acba49f75a10)
-
-## Stellar Guardians - Micro ECO Bus ⚡
-
-![Image](https://github.com/user-attachments/assets/7d3a9b8c-dd4f-4ac3-94b5-1a2fa3ff1fb3)
-
 ## Stellar Guardians - Earth Adventure "V" ⚡
 
 ![Image](https://github.com/user-attachments/assets/116b147b-30ce-41cd-af84-b3e8e7ee96cc)
@@ -54,6 +46,14 @@ Here are some ideas to get you started:
 ![Image](https://github.com/user-attachments/assets/478e3f00-4e9d-4fdd-85de-d75f7f6a7628)
 
 ![Image](https://github.com/user-attachments/assets/2e4d2cc1-9a8d-4ed0-b18f-1bfe2b337415)
+
+## Stellar Guardians - Dual ECO Bus ⚡
+
+![Image](https://github.com/user-attachments/assets/810b814c-3c24-4ff2-aad9-acba49f75a10)
+
+## Stellar Guardians - Micro ECO Bus ⚡
+
+![Image](https://github.com/user-attachments/assets/7d3a9b8c-dd4f-4ac3-94b5-1a2fa3ff1fb3)
 
 ## Evo Draws - Stellar Guardians ⚡
 
