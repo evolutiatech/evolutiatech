@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stellar Guardians - Crazy formula ⚡
+
+![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
+
 ## Stellar Guardians - Earth Mission Patrol ⚡
 
 ![Image](https://github.com/user-attachments/assets/7b73d9df-6a73-4e49-adf8-b79b30a6d154)
