@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Evo Draws - Police Star Guardians ⚡
 
-![Image](https://github.com/user-attachments/assets/34339f85-741b-4020-9fbf-29769c7c0087)
+![Image](https://github.com/user-attachments/assets/fce3f354-b223-477e-bbe2-9c65727eb3b4)
 
 ![Image](https://github.com/user-attachments/assets/a4dca289-427f-49b0-b587-3e54510d262b)
 
