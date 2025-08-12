@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
 
+![Image](https://github.com/user-attachments/assets/c70d793d-d108-411c-802f-d12aee7212ce)
+
 ![Image](https://github.com/user-attachments/assets/223ea922-d3a2-4948-ad2e-7279be6d7d60)
 
 ## Evo Player - Earth Mission Strol ⚡
