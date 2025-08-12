@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/104cc673-f435-47b7-b248-7ccb017c856b)
 
+![Image](https://github.com/user-attachments/assets/81677242-6699-4889-be52-8ced2d2be2f5)
+
 ![Image](https://github.com/user-attachments/assets/3508c799-78bc-4f35-83ad-a507797a150a)
 
 ![Image](https://github.com/user-attachments/assets/116b147b-30ce-41cd-af84-b3e8e7ee96cc)
