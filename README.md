@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Image](https://github.com/user-attachments/assets/2e4d2cc1-9a8d-4ed0-b18f-1bfe2b337415)
 
 
-## Stellar Guardians - Explorer ⚡
+## Stellar Guardians - Earth Explorer ⚡
 
 ![Image](https://github.com/user-attachments/assets/3508c799-78bc-4f35-83ad-a507797a150a)
 
@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 ![Image](https://github.com/user-attachments/assets/b5ab2590-5e2d-4579-8ada-8068eb8ed494)
 
 ![Image](https://github.com/user-attachments/assets/d5b3101f-9465-4a5a-a97a-e74a16bf6bc5)
+
+## Stellar Guardians - Water Explorer ⚡
+
+![Image](https://github.com/user-attachments/assets/fadfba20-e461-4978-8a31-2a0599800f64)
 
 ## Stellar Guardians - Dual ECO Bus ⚡
 
