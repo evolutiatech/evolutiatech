@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## Stellar Guardians - Earth Mission Patrol ⚡
 
+![Image](https://github.com/user-attachments/assets/2d73541c-90de-42e5-8a50-91c7a92875a7)
+
 ![Image](https://github.com/user-attachments/assets/54bd39f0-b35c-4934-b4a3-039d251b20bb)
 
 ![Image](https://github.com/user-attachments/assets/7b73d9df-6a73-4e49-adf8-b79b30a6d154)
