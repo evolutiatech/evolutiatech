@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stellar Guardians - Earth Adventure ⚡
+## Stellar Guardians - Earth Adventure "V" ⚡
 
 ![Image](https://github.com/user-attachments/assets/1352ce17-e2ae-4015-984e-d3c88db365d5)
 
