@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Evo Player - Earth Mission Strol ⚡
 
-![Image](https://github.com/user-attachments/assets/49dfa591-0024-4bff-8cf9-49198aa80cb8)
+![Image](https://github.com/user-attachments/assets/a04a4863-65f0-480d-86e5-f94275e36e02)
 
 ## Stellar Guardians - Earth Mission Patrol ⚡
 
