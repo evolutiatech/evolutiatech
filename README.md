@@ -68,6 +68,10 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/fadfba20-e461-4978-8a31-2a0599800f64)
 
+## Stellar Guardians - Air Explorer ⚡
+
+![Image](https://github.com/user-attachments/assets/318f953f-6fd2-4d58-ba2f-02606375ccc6)
+
 ## Evo Draws - Stellar Guardians ⚡
 
 ![Image](https://github.com/user-attachments/assets/89530e0f-6716-468d-920b-e074089fbfd5)
