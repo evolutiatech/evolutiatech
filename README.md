@@ -17,16 +17,6 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/9085094a-282e-4f9d-b04b-ec01b8924d42)
 
-![Image](https://github.com/user-attachments/assets/116b147b-30ce-41cd-af84-b3e8e7ee96cc)
-
-![Image](https://github.com/user-attachments/assets/3508c799-78bc-4f35-83ad-a507797a150a)
-
-![Image](https://github.com/user-attachments/assets/1352ce17-e2ae-4015-984e-d3c88db365d5)
-
-![Image](https://github.com/user-attachments/assets/b5ab2590-5e2d-4579-8ada-8068eb8ed494)
-
-![Image](https://github.com/user-attachments/assets/d5b3101f-9465-4a5a-a97a-e74a16bf6bc5)
-
 ## Stellar Guardians - Crazy formula ⚡
 
 ![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
@@ -48,6 +38,19 @@ Here are some ideas to get you started:
 ![Image](https://github.com/user-attachments/assets/478e3f00-4e9d-4fdd-85de-d75f7f6a7628)
 
 ![Image](https://github.com/user-attachments/assets/2e4d2cc1-9a8d-4ed0-b18f-1bfe2b337415)
+
+## Stellar Guardians - Explorer ⚡
+
+![Image](https://github.com/user-attachments/assets/116b147b-30ce-41cd-af84-b3e8e7ee96cc)
+
+![Image](https://github.com/user-attachments/assets/3508c799-78bc-4f35-83ad-a507797a150a)
+
+![Image](https://github.com/user-attachments/assets/1352ce17-e2ae-4015-984e-d3c88db365d5)
+
+![Image](https://github.com/user-attachments/assets/b5ab2590-5e2d-4579-8ada-8068eb8ed494)
+
+![Image](https://github.com/user-attachments/assets/d5b3101f-9465-4a5a-a97a-e74a16bf6bc5)
+
 
 ## Stellar Guardians - Dual ECO Bus ⚡
 
