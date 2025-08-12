@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stellar Guardians - Earth Mission Adventure ⚡
+## Stellar Guardians - Earth Mission Patrol ⚡
 
 ![Image](https://github.com/user-attachments/assets/9085094a-282e-4f9d-b04b-ec01b8924d42)
 
