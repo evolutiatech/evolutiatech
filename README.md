@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Evo Player - Earth Mission Strol ⚡
+
+![Image](https://github.com/user-attachments/assets/49dfa591-0024-4bff-8cf9-49198aa80cb8)
+
 ## Stellar Guardians - Earth Mission Patrol ⚡
 
 ![Image](https://github.com/user-attachments/assets/9085094a-282e-4f9d-b04b-ec01b8924d42)
