@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
 
+![Image](https://github.com/user-attachments/assets/2e8849d2-1fa9-4bb0-b966-7689af8d63e5)
+
 ![Image](https://github.com/user-attachments/assets/c70d793d-d108-411c-802f-d12aee7212ce)
 
 ![Image](https://github.com/user-attachments/assets/4b04305d-5f0d-495d-80aa-f632bd7b68bd)
