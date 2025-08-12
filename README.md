@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stellar Guardians - Micro ECO Bus ⚡
+
+![Image](https://github.com/user-attachments/assets/7d3a9b8c-dd4f-4ac3-94b5-1a2fa3ff1fb3)
+
 ## Stellar Guardians - Earth Adventure "V" ⚡
 
 ![Image](https://github.com/user-attachments/assets/116b147b-30ce-41cd-af84-b3e8e7ee96cc)
