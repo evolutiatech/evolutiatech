@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 ## Stellar Guardians - Earth Explorer ⚡
 
+![Image](https://github.com/user-attachments/assets/f6bfb11f-be55-43bd-b9ea-d4c2b8c34e85)
+
 ![Image](https://github.com/user-attachments/assets/104cc673-f435-47b7-b248-7ccb017c856b)
 
 ![Image](https://github.com/user-attachments/assets/81677242-6699-4889-be52-8ced2d2be2f5)
