@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stellar Guardians - Crazy formula ⚡
+
+![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
+
+![Image](https://github.com/user-attachments/assets/223ea922-d3a2-4948-ad2e-7279be6d7d60)
+
 ## Evo Player - Earth Mission Strol ⚡
 
 ![Image](https://github.com/user-attachments/assets/3345a75b-680b-4a54-b666-6aa4d651e729)
@@ -83,10 +89,6 @@ Here are some ideas to get you started:
 ## Stellar Guardians - Micro ECO Bus ⚡
 
 ![Image](https://github.com/user-attachments/assets/7d3a9b8c-dd4f-4ac3-94b5-1a2fa3ff1fb3)
-
-## Stellar Guardians - Crazy formula ⚡
-
-![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
 
 ## Stellar Guardians - Water Explorer ⚡
 
