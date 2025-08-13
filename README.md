@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 ---
 
 ### 1. Neural Network Principles and Applications
-Certainly! Here's an overview of Neural Network Principles and Applications:
+
+Here's an overview of Neural Network Principles and Applications:
 
 ---
 
