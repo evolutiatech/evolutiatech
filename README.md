@@ -58,7 +58,11 @@ In this section, we will take a quick look at the summation operator. The summat
 
 <img width="1145" height="355" alt="Image" src="https://github.com/user-attachments/assets/5b713cdf-c3d1-4920-bd87-da7b78542d06" />
 
+
+### • Pseudocode
+
 ```c
+
 pseudocode
 
 Initialize sum to 0
@@ -74,6 +78,9 @@ As you can see, the summation operator is very similar to a for loop. The inform
 ### • ANSI C89/90 Multiparadigms
 
 ```c
+
+ANSI C89/90
+
 #include <stdio.h>
 
 /* Function to compute the sum based on the pseudocode */
@@ -136,6 +143,8 @@ To understand Equation Above, we first examine the variables that go into it. Fo
 There are also three weight values considered w1, w2 and w3. These are the weighted connections between H1 and the previous layer. Therefore, the variables to this equation are:
 </p>
 
+### • Pseudocode
+
 ```c
 
 pseudocode
@@ -143,7 +152,7 @@ pseudocode
 /* Define number of connections */
 n = 3
 
-/* Initialize input values
+/* Initialize input values */
 i[1] = first input value to the neural network 
 i[2] = second input value to the neural network
 i[3] = 1 bias input B1
@@ -169,6 +178,9 @@ sum = A(sum)
 ### • ANSI C89/90 Multiparadigms
 
 ```c
+
+ANSI C89/90
+
 #include <stdio.h>
 
 /* Prototype for the activation function A */
@@ -220,6 +232,7 @@ Though the bias neuron is not really part of the input array, a one is always pl
 </p>
 
 ```c
+
 pseudocode
 
 /* Declare arrays for weights and input values */
@@ -245,6 +258,7 @@ Here we sum up each of the inputs times its respective weight. Finally this sum 
 ### • ANSI C89/90 Multiparadigms
 
 ```c
+
 #include <stdio.h>
 
 /* Prototype for the activation function A */
