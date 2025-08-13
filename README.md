@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 ### Neural Network Principles and Applications 
 
 • "Algebra: Form and Function";
+
    • Recommendation, solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
+   
 • "C Programming Language, 2nd Edition";
+
 • "Fundamentals of Neural Networks: Architectures, Algorithms and Applications".
+
 ---
 
 • Summation;
