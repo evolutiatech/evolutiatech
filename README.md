@@ -371,7 +371,7 @@ The two most common activation functions are the sigmoid and hyperbolic tangent 
 
 <img width="1096" height="112" alt="Image" src="https://github.com/user-attachments/assets/22ea498f-bf14-4fc2-ba41-d157446eab12" />
 
-The hyperbolic tangent function is actually a trigonometric function. However, our use for it has nothing to do with trigonomy. This function was chosen for the shape of its graph. You can see a graph of the hyperbolic tangent function in figure below "The Hyperbolic Tangent Function".
+The hyperbolic tangent function is actually a trigonometric function. However, our use for it has nothing to do with trigonomy. This function was chosen for the shape of its graph. You can see a graph of the hyperbolic tangent function in figure "The Hyperbolic Tangent Function" below.
 
 <img width="1092" height="448" alt="Image" src="https://github.com/user-attachments/assets/6ed91577-0fdc-4c7b-8154-83152bd77e13" />
 
