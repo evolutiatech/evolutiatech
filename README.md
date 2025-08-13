@@ -125,7 +125,7 @@ In this section, we will take a quick look at the summation operator. The summat
 
 <img width="1096" height="112" alt="Image" src="https://github.com/user-attachments/assets/67e2b33d-8838-45ac-b664-2b503b660fbb" />
 
-The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop. Figure "Summation Operator to Code" shows Equation "Summation" above reduced to pseudocode. 
+The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop. Figure "Summation Operator to Code" below shows Equation "Summation" above reduced to pseudocode. 
 
 </p>
 
