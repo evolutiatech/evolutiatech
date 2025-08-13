@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### "Think about math, don't know how to do calculations, go study"
 ---
 
-### Summation Operator reduced to pseudocode.
+### 1. Summation Operator reduced to pseudocode (Neural Networks in ANSI C89/90 Multiparadigms)
 
 <p align="justify">  
 The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop.
