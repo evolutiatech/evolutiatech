@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 • "Algebra: Form and Function";
 
-   • Recommendation, solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
+   Recommendation, solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
    
 • "C Programming Language, 2nd Edition";
 
