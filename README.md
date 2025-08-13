@@ -43,9 +43,36 @@ End For
 Return sum
 ```
 
-### 2. Neural Networks in ANSI C89/90 Multiparadigms
+### 2. ANSI C89/90 Multiparadigms
 
+```c
+#include <stdio.h>
 
+/* Function to compute the sum based on the pseudocode */
+int compute_sum();
+
+int main() {
+    int result;
+
+    result = compute_sum();
+    printf("The sum is: %d\n", result);
+
+    return 0;
+}
+
+/* Implementation of the sum calculation */
+int compute_sum() {
+    int i;
+    int sum = 0; /* Initialize sum to 0 */
+
+    for (i = 1; i <= 10; i++) {
+        sum = sum + (2 * i); /* sum = sum + (2 * i) */
+    }
+
+    return sum; /* Return the computed sum */
+}
+
+```
 ---
 
 ## Stellar Guardians - Crazy formula ⚡
