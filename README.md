@@ -123,7 +123,7 @@ First we must look at how one activation calculation is done. This same activati
 
 
 <p align="justify">
-We will now see how to calculate H1. This relatively simple equation is shown in Equation below.
+We will now see how to calculate H1. This relatively simple equation is shown in Equation above.
 </p>
 
 <p align="justify">
