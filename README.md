@@ -42,23 +42,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 1. Neural Network Principles and Applications
-
-#### Introduction
-
-Neural networks are a subset of machine learning models inspired by the structure and functioning of the human brain. They are designed to recognize patterns, learn from data, and make decisions or predictions. Neural networks have revolutionized many fields due to their ability to handle complex, high-dimensional data.
+### Neural Network Principles and Applications
 
 Here's an overview of Neural Network Principles and Applications:
-
-• Summation;
-
-• Calculating Activation;
-
-• Activation Functions;
-
-• Bias Neurons.
-
----
 
 ### Principles of Neural Networks
 
@@ -114,6 +100,21 @@ Neural networks are fundamental to modern AI, enabling machines to perform tasks
 ---
 
 </p>
+
+
+#### 1. Introduction
+
+Neural networks are a subset of machine learning models inspired by the structure and functioning of the human brain. They are designed to recognize patterns, learn from data, and make decisions or predictions. Neural networks have revolutionized many fields due to their ability to handle complex, high-dimensional data.
+
+• Summation;
+
+• Calculating Activation;
+
+• Activation Functions;
+
+• Bias Neurons.
+
+---
 
 ### 1.1 Understanding the Summation Operator
 
