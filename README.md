@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 • "Algebra: Form and Function";
 
-• "Fundamentals of Neural Networks: Architectures, Algorithms and Applications".
+• "Fundamentals of Neural Networks: Architectures, Algorithms and Applications";
 
-• "C Programming Language, 2nd Edition";
+• "C Programming Language, 2nd Edition".
 
 ---
 
