@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 ---
 ### "Think about math, don't know how to do calculations, go study"
 ---
-
-### Neural Network Principles and Applications 
----
 ### Recommendation, solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
 ---
+### Neural Network Principles and Applications 
 
 • "Algebra: Form and Function";
 
