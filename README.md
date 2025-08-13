@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="justify">
+   
 ---
 ### "Think about math, don't know how to do calculations, go study"
 ---
@@ -112,6 +114,8 @@ Neural networks are a subset of machine learning models inspired by the structur
 Neural networks are fundamental to modern AI, enabling machines to perform tasks that require perception, reasoning, and learning. Continuous advancements in architectures and training methods are expanding their applications across diverse industries.
 
 ---
+
+</p>
 
 ### 1.1 Understanding the Summation Operator
 
