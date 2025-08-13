@@ -26,15 +26,17 @@ Here are some ideas to get you started:
 ---
 ### Recommendation, solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
 ---
-### Neural Network Principles and Applications 
+### Reference Books: 
 
 • "Algebra: Form and Function";
 
-• "C Programming Language, 2nd Edition";
-
 • "Fundamentals of Neural Networks: Architectures, Algorithms and Applications".
 
+• "C Programming Language, 2nd Edition";
+
 ---
+
+### Neural Network Principles and Applications
 
 • Summation;
 
