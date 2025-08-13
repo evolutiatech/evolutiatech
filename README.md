@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Neural Network Principles and Applications
+### 0. Neural Network Principles and Applications
 
 Neural networks are fundamental to modern AI, enabling machines to perform tasks that require perception, reasoning, and learning. Continuous advancements in architectures and training methods are expanding their applications across diverse industries.
 
