@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 • Activation Functions;
 
-• Bias Neurons
+• Bias Neurons.
 
 Seeing how this simple neural network is calculated will form the foundation for understanding training, and other more complex features of neural networks.
 
-### Understanding the Summation Operator
+### 1. Understanding the Summation Operator
 
-### 1. Summation Operator reduced to pseudocode 
+### • Summation Operator reduced to pseudocode 
 
 <p align="justify">
 In this section, we will take a quick look at the summation operator. The summation operator, represented by the capital Greek letter sigma can be seen in Equation Below. The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop.
@@ -60,7 +60,7 @@ Return sum
 As you can see, the summation operator is very similar to a for loop. The information just below the sigma symbol species the stating value and the indexing variable. The information above the sigma species the limit of the loop. The information to the right of sigma specifies the value that is being summed.
 </p>
 
-### 2. ANSI C89/90 Multiparadigms
+### • ANSI C89/90 Multiparadigms
 
 ```c
 #include <stdio.h>
