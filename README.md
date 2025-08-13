@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Neural Network Principles and Applications 
 
-<p>Eg: Minimal Example - Davada Zaita</p>
+### Eg: Minimal Example - Davada Zaita
 
 • Summation;
 
