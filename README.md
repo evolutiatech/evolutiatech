@@ -25,10 +25,21 @@ Here are some ideas to get you started:
 ### "Think about math, don't know how to do calculations, go study"
 ---
 
+### Neural Network Activation
+
+• Summation
+• Calculating Activation
+• Activation Functions
+• Bias Neurons
+
+Seeing how this simple neural network is calculated will form the foundation for understanding training, and other more complex features of neural networks.
+
+### Understanding the Summation Operator
+
 ### 1. Summation Operator reduced to pseudocode 
 
-<p align="justify">  
-The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop.
+<p align="justify">
+In this section, we will take a quick look at the summation operator. The summation operator, represented by the capital Greek letter sigma can be seen in Equation Below. The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop.
 </p>
 
 <img width="1145" height="355" alt="Image" src="https://github.com/user-attachments/assets/5e856cb7-3593-4e64-a5e0-60bdadb670de" />
