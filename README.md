@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Neural Network Principles and Applications 
 
-### Eg: Minimal Example - Davada Zaita
+• Eg: Recommendation: "Algebra: Form and Function", solve Algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
 
 • Summation;
 
