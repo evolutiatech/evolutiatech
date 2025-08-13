@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### "Think about math, don't know how to do calculations, go study"
 ---
 
-### Neural Network Principles
+### Neural Network Principles and Applications
 
 • Summation;
 
