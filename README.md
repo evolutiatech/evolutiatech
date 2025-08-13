@@ -208,6 +208,9 @@ end for
 sum = A(sum)
 
 ```
+<p align="justify">
+Here we sum up each of the inputs times its respective weight. Finally this sum is passed to an activation function. Activation functions are a very important concept in neural network programming. In the next section we will examine activation functions.
+</p>
 
 ### • ANSI C89/90 Multiparadigms
 
