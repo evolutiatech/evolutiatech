@@ -185,7 +185,7 @@ This neural network has one output neuron. As a result, it will have one output 
 </p>
 
 <p align="justify">
-First we must look at how one activation calculation is done. This same activation calculation can then be applied to the other activation calculations. We will examine how H1 is calculated. Figure below shows only the inputs to H1.
+First we must look at how one activation calculation is done. This same activation calculation can then be applied to the other activation calculations. We will examine how H1 is calculated. Figure "Calculating H1 Activation" below shows only the inputs to H1.
 </p>
 
 <img width="1148" height="330" alt="Image" src="https://github.com/user-attachments/assets/b443d725-0297-4338-803d-34030824507e" />
