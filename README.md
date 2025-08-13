@@ -39,7 +39,7 @@ For i from 1 to 10 do
     sum = sum + (2 * i)
 End For
 Return sum
-``
+```
 
 ### 2. Neural Networks in ANSI C89/90 Multiparadigms
 
