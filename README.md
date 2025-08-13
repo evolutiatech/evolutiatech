@@ -120,7 +120,8 @@ Seeing how this simple neural network is calculated will form the foundation for
 #### • Summation operator reduced to pseudocode 
 
 <p align="justify">
-In this section, we will take a quick look at the summation operator. The summation operator, represented by the capital Greek letter sigma can be seen in Equation Below. The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop.
+In this section, we will take a quick look at the summation operator. The summation operator, represented by the capital Greek letter sigma can be seen in Equation Below.
+The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop. Figure "Summation Operator to Code" shows Equation "Summation" reduced to pseudocode.   
 </p>
 
 <img width="1145" height="355" alt="Image" src="https://github.com/user-attachments/assets/5b713cdf-c3d1-4920-bd87-da7b78542d06" />
@@ -175,7 +176,7 @@ int compute_sum() {
 #### 1.2. Calculating a Neural Network
 
 <p align="justify">
-We will begin by looking at how a neural network calculates its output. You should already know the structure of a neural network from the book’s introduction. Consider a neural network such as the one in below:
+We will begin by looking at how a neural network calculates its output. You should already know the structure of a neural network from the book’s introduction. Consider a neural network such as the one in figure "A Simple Neural Network" below:
 </p>
 
 <img width="1141" height="439" alt="Image" src="https://github.com/user-attachments/assets/9221248e-ee25-4c78-8eb6-a2e3c9547cc0" />
