@@ -43,6 +43,14 @@ Here are some ideas to get you started:
 
 Here's an overview of Neural Network Principles and Applications:
 
+• Summation;
+
+• Calculating Activation;
+
+• Activation Functions;
+
+• Bias Neurons.
+
 ---
 
 ### Neural Network Principles and Applications
@@ -106,14 +114,6 @@ Neural networks are fundamental to modern AI, enabling machines to perform tasks
 ---
 
 ### 1.1 Understanding the Summation Operator
-
-• Summation;
-
-• Calculating Activation;
-
-• Activation Functions;
-
-• Bias Neurons.
 
 Seeing how this simple neural network is calculated will form the foundation for understanding training, and other more complex features of neural networks.
 
@@ -189,7 +189,6 @@ First we must look at how one activation calculation is done. This same activati
 </p>
 
 <img width="1148" height="330" alt="Image" src="https://github.com/user-attachments/assets/b443d725-0297-4338-803d-34030824507e" />
-
 
 <p align="justify">
 We will now see how to calculate H1. This relatively simple equation is shown in equation in figure below.
