@@ -189,8 +189,25 @@ double A(double x) {
 Though the bias neuron is not really part of the input array, a one is always placed into the input array for the bias neuron. Treating the bias as a forward-only neuron makes the calculation much easier. To understand equation in figure above we will consider it as pseudocode.
 </p>
 
+```c
+pseudocode
 
+/* Declare arrays for weights and input values */
+double w[3]   /* the weights */
+double i[3]   /* the input values */
 
+/* Initialize sum to zero */
+double sum = 0
+
+/* Perform the summation (sigma) */
+for c = 0 to 2 do
+    sum = sum + (w[c] * i[c])
+end for
+
+/* Apply the activation function */
+sum = A(sum)
+
+```
 
 ### • ANSI C89/90 Multiparadigms
 
