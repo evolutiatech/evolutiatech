@@ -116,14 +116,14 @@ This neural network has one output neuron. As a result, it will have one output 
 </p>
 
 <p align="justify">
-First we must look at how one activation calculation is done. This same activation calculation can then be applied to the other activation calculations. We will examine how H1 is calculated. Figure Below shows only the inputs to H1.
+First we must look at how one activation calculation is done. This same activation calculation can then be applied to the other activation calculations. We will examine how H1 is calculated. Figure below shows only the inputs to H1.
 </p>
 
 <img width="1148" height="330" alt="Image" src="https://github.com/user-attachments/assets/b443d725-0297-4338-803d-34030824507e" />
 
 
 <p align="justify">
-We will now see how to calculate H1. This relatively simple equation is shown in Equation below.
+We will now see how to calculate H1. This relatively simple equation is shown in equation in figure below.
 </p>
 
 <img width="1086" height="123" alt="Image" src="https://github.com/user-attachments/assets/10e72bff-bab2-4a52-a752-5853aa83d419" />
@@ -135,6 +135,62 @@ To understand Equation 1.2 we first examine the variables that go into it. For t
 <p align="justify">
 There are also three weight values considered w1, w2 and w3. These are the weighted connections between H1 and the previous layer. Therefore, the variables to this equation are:
 </p>
+
+### • ANSI C89/90 Multiparadigms
+
+```c
+#include <stdio.h>
+
+/* Prototype for the activation function A */
+double A(double x);
+
+int main() {
+    int n = 3; /* number of connections */
+
+    /* Initialize input values */
+    double i[4]; /* Using 1-based indexing for clarity, ignoring i[0] */
+    i[1] = /* first input value to the neural network */;
+    i[2] = /* second input value to the neural network */;
+    i[3] = 1.0; /* bias input B1, typically set to 1 */
+
+    /* Initialize weights */
+    double w[4]; /* Using 1-based indexing for clarity, ignoring w[0] */
+    w[1] = /* weight from I1 to H1 */;
+    w[2] = /* weight from I2 to H1 */;
+    w[3] = /* weight from B1 to H1 */;
+
+    double sum = 0.0;
+    int c;
+
+    /* Perform the summation (sigma) */
+    for (c = 1; c <= n; c++) {
+        sum = sum + (w[c] * i[c]);
+    }
+
+    /* Apply the activation function */
+    sum = A(sum);
+
+    /* Output the result */
+    printf("Output after activation: %f\n", sum);
+
+    return 0;
+}
+
+/* Example activation function: threshold at 0 */
+double A(double x) {
+    if (x > 0.0)
+        return 1.0;
+    else
+        return 0.0;
+}
+```
+
+<p align="justify">
+Though the bias neuron is not really part of the input array, a one is always placed into the input array for the bias neuron. Treating the bias as a forward-only neuron makes the calculation much easier. To understand equation in figure above we will consider it as pseudocode.
+</p>
+
+
+
 
 ### • ANSI C89/90 Multiparadigms
 
