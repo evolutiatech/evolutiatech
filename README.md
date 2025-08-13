@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 0. Neural Network Principles and Applications
+### Neural Network Principles and Applications
+
+#### 0. Introduction 
 
 Neural networks are fundamental to modern AI, enabling machines to perform tasks that require perception, reasoning, and learning. Continuous advancements in architectures and training methods are expanding their applications across diverse industries.
 
@@ -99,7 +101,9 @@ Here's an overview of Neural Network Principles and Applications:
 
 </p>
 
-### 1. Introduction
+<p align="justify">
+
+### 1. Neural Network Activation
 
 Neural networks are a subset of machine learning models inspired by the structure and functioning of the human brain. They are designed to recognize patterns, learn from data, and make decisions or predictions. Neural networks have revolutionized many fields due to their ability to handle complex, high-dimensional data.
 
@@ -116,12 +120,13 @@ Neural networks are a subset of machine learning models inspired by the structur
 #### 1.1 Understanding the Summation Operator
 
 Seeing how this simple neural network is calculated will form the foundation for understanding training, and other more complex features of neural networks.
+   
+In this section, we will take a quick look at the summation operator. The summation operator, represented by the capital Greek letter sigma can be seen in Equation "Summation" Below.
 
-#### • Summation operator reduced to pseudocode 
+<img width="1096" height="112" alt="Image" src="https://github.com/user-attachments/assets/67e2b33d-8838-45ac-b664-2b503b660fbb" />
 
-<p align="justify">
-In this section, we will take a quick look at the summation operator. The summation operator, represented by the capital Greek letter sigma can be seen in Equation Below.
-The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop. Figure "Summation Operator to Code" shows Equation "Summation" reduced to pseudocode.   
+The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop. Figure "Summation Operator to Code" shows Equation "Summation" above reduced to pseudocode. 
+
 </p>
 
 <img width="1145" height="355" alt="Image" src="https://github.com/user-attachments/assets/5b713cdf-c3d1-4920-bd87-da7b78542d06" />
