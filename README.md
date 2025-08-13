@@ -355,13 +355,15 @@ double A(double x) {
 }
 
 ```
-<p align="justify">
-   
 #### 1.3. Activation Functions
+
+<p align="justify">
 
 Activation functions are used very commonly in neural networks. Activation functions serve several important functions for a neural network. The primary reason to use an activation function is to introduce non-linearity to the neural network. Without this non-linearity a neural network could do little to learn non-linear functions. The output that we expect neural networks to learn is rarely linear.
 
 The two most common activation functions are the sigmoid and hyperbolic tangent activation function. The hyperbolic tangent activation function is the more common of these two, as has a number range from -1 to 1, compared to the sigmoid function which is only from 0 to 1.
+
+<img width="1096" height="112" alt="Image" src="https://github.com/user-attachments/assets/22ea498f-bf14-4fc2-ba41-d157446eab12" />
 
 The hyperbolic tangent function is actually a trigonometric function. However, our use for it has nothing to do with trigonomy. This function was chosen for the shape of its graph. You can see a graph of the hyperbolic tangent function in figure below "The Hyperbolic Tangent Function".
 
