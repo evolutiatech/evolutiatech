@@ -129,7 +129,7 @@ We will now see how to calculate H1. This relatively simple equation is shown in
 <img width="1086" height="123" alt="Image" src="https://github.com/user-attachments/assets/10e72bff-bab2-4a52-a752-5853aa83d419" />
 
 <p align="justify">
-To understand Equation 1.2 we first examine the variables that go into it. For the above equation we have three input values, given by the variable i. The three input values are input values of I1, I2 and B1. I1 and I2 are simply the input values that the neural network was provided to compute the output. B1 is always 1, because it is the bias neuron.
+To understand Equation Above, we first examine the variables that go into it. For the above equation we have three input values, given by the variable i. The three input values are input values of I1, I2 and B1. I1 and I2 are simply the input values that the neural network was provided to compute the output. B1 is always 1, because it is the bias neuron.
 </p>
 
 <p align="justify">
