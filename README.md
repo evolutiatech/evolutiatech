@@ -25,11 +25,14 @@ Here are some ideas to get you started:
 ### "Think about math, don't know how to do calculations, go study"
 ---
 
-### Neural Network Activation
+### Neural Network Principles
 
-• Summation
-• Calculating Activation
-• Activation Functions
+• Summation;
+
+• Calculating Activation;
+
+• Activation Functions;
+
 • Bias Neurons
 
 Seeing how this simple neural network is calculated will form the foundation for understanding training, and other more complex features of neural networks.
