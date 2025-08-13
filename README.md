@@ -120,3 +120,16 @@ First we must look at how one activation calculation is done. This same activati
 </p>
 
 <img width="1148" height="330" alt="Image" src="https://github.com/user-attachments/assets/b443d725-0297-4338-803d-34030824507e" />
+
+
+<p align="justify">
+We will now see how to calculate H1. This relatively simple equation is shown in Equation below.
+</p>
+
+<p align="justify">
+To understand Equation 1.2 we first examine the variables that go into it. For the above equation we have three input values, given by the variable i. The three input values are input values of I1, I2 and B1. I1 and I2 are simply the input values that the neural network was provided to compute the output. B1 is always 1, because it is the bias neuron.
+</p>
+
+<p align="justify">
+There are also three weight values considered w1, w2 and w3. These are the weighted connections between H1 and the previous layer. Therefore, the variables to this equation are:
+</p>
