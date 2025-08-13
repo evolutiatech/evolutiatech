@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Neural Network Principles and Applications 
 ---
-Recommendation, solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
+### Recommendation, solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
 ---
 
 • "Algebra: Form and Function";
