@@ -247,15 +247,15 @@ int main() {
 
     /* Initialize input values */
     double i[4]; /* Using 1-based indexing for clarity, ignoring i[0] */
-    i[1] = /* first input value to the neural network */;
-    i[2] = /* second input value to the neural network */;
+    i[1] = first input value to the neural network;
+    i[2] = second input value to the neural network;
     i[3] = 1.0; /* bias input B1, typically set to 1 */
 
     /* Initialize weights */
     double w[4]; /* Using 1-based indexing for clarity, ignoring w[0] */
-    w[1] = /* weight from I1 to H1 */;
-    w[2] = /* weight from I2 to H1 */;
-    w[3] = /* weight from B1 to H1 */;
+    w[1] = weight from I1 to H1;
+    w[2] = weight from I2 to H1;
+    w[3] = weight from B1 to H1;
 
     double sum = 0.0;
     int c;
@@ -322,8 +322,8 @@ double A(double x);
 
 int main() {
     /* Declare weight and input arrays */
-    double w[3] = { /* initialize with your weights */ };
-    double i[3] = { /* initialize with your input values */ };
+    double w[3] = { initialize with your weights };
+    double i[3] = { initialize with your input values };
     double sum = 0.0;
     int c;
 
@@ -343,7 +343,8 @@ int main() {
 
 /* 
  * Implementation of the activation function A
- * For example, a simple threshold function 
+ * For example, a simple threshold function
+ *
  */
 double A(double x) {
     /* You can modify this function as needed */
