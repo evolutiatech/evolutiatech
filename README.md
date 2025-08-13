@@ -135,3 +135,43 @@ To understand Equation 1.2 we first examine the variables that go into it. For t
 <p align="justify">
 There are also three weight values considered w1, w2 and w3. These are the weighted connections between H1 and the previous layer. Therefore, the variables to this equation are:
 </p>
+
+### • ANSI C89/90 Multiparadigms
+
+``c
+#include <stdio.h>
+
+/* Prototype for the activation function A */
+double A(double x);
+
+int main() {
+    /* Declare weight and input arrays */
+    double w[3] = { /* initialize with your weights */ };
+    double i[3] = { /* initialize with your input values */ };
+    double sum = 0.0;
+    int c;
+
+    /* Perform the summation (sigma) */
+    for (c = 0; c <= 2; c++) {
+        sum = sum + (w[c] * i[c]);
+    }
+
+    /* Apply the activation function */
+    sum = A(sum);
+
+    /* Output the result */
+    printf("Result after activation: %f\n", sum);
+
+    return 0;
+}
+
+/* Implementation of the activation function A
+   For example, a simple threshold function */
+double A(double x) {
+    /* You can modify this function as needed */
+    if (x > 0.0)
+        return 1.0;
+    else
+        return 0.0;
+}
+``
