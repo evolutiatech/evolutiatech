@@ -34,6 +34,8 @@ The above equation is a summation. If you are unfamiliar with sigma notation, it
 <img width="1145" height="355" alt="Image" src="https://github.com/user-attachments/assets/5e856cb7-3593-4e64-a5e0-60bdadb670de" />
 
 ```c
+pseudocode
+
 Initialize sum to 0
 For i from 1 to 10 do
     sum = sum + (2 * i)
