@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 <p align="justify">
    
 ---
-### "Think about math, don't know how to do calculations, go study"
+#### "Think about math, don't know how to do calculations, go study"
 ---
-### Recommendation:
+#### Recommendation:
 
 • Solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90 Multiparadigms Programming.
 
 ---
 
-### Reference Books: 
+#### Reference Books: 
 
 • "Algebra: Form and Function";
 
@@ -48,7 +48,7 @@ Neural networks are fundamental to modern AI, enabling machines to perform tasks
 
 Here's an overview of Neural Network Principles and Applications:
 
-### Principles of Neural Networks
+#### Principles of Neural Networks
 
 1. **Neurons and Architecture**
    - Neural networks consist of interconnected nodes called neurons or units organized in layers: input layer, hidden layers, and output layer.
@@ -72,7 +72,7 @@ Here's an overview of Neural Network Principles and Applications:
 
 ---
 
-### Applications of Neural Networks
+#### Applications of Neural Networks
 
 1. **Image and Video Recognition**
    - Convolutional Neural Networks (CNNs) excel in image classification, object detection, facial recognition, and video analysis.
@@ -99,8 +99,7 @@ Here's an overview of Neural Network Principles and Applications:
 
 </p>
 
-
-#### 1. Introduction
+### 1. Introduction
 
 Neural networks are a subset of machine learning models inspired by the structure and functioning of the human brain. They are designed to recognize patterns, learn from data, and make decisions or predictions. Neural networks have revolutionized many fields due to their ability to handle complex, high-dimensional data.
 
@@ -114,11 +113,11 @@ Neural networks are a subset of machine learning models inspired by the structur
 
 ---
 
-### 1.1 Understanding the Summation Operator
+#### 1.1 Understanding the Summation Operator
 
 Seeing how this simple neural network is calculated will form the foundation for understanding training, and other more complex features of neural networks.
 
-### • Summation operator reduced to pseudocode 
+#### • Summation operator reduced to pseudocode 
 
 <p align="justify">
 In this section, we will take a quick look at the summation operator. The summation operator, represented by the capital Greek letter sigma can be seen in Equation Below. The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop.
@@ -173,7 +172,7 @@ int compute_sum() {
 ```
 ---
 
-### 1.2. Calculating a Neural Network
+#### 1.2. Calculating a Neural Network
 
 <p align="justify">
 We will begin by looking at how a neural network calculates its output. You should already know the structure of a neural network from the book’s introduction. Consider a neural network such as the one in below:
