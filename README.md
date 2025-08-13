@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Neural Network Principles and Applications
+### 1. Neural Network Principles and Applications
 
 • Summation;
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 Seeing how this simple neural network is calculated will form the foundation for understanding training, and other more complex features of neural networks.
 
-### 1. Understanding the Summation Operator
+### 1.1 Understanding the Summation Operator
 
 ### • Summation Operator reduced to pseudocode 
 
@@ -103,3 +103,8 @@ int compute_sum() {
 ```
 ---
 
+### 1.2. Calculating a Neural Network
+
+<p align="justify">
+We will begin by looking at how a neural network calculates its output. You should already know the structure of a neural network from the book’s introduction. Consider a neural network such as the one in below:
+</p>
