@@ -25,13 +25,16 @@ Here are some ideas to get you started:
 ### "Think about math, don't know how to do calculations, go study"
 ---
 
-### 1. Summation Operator reduced to pseudocode (Neural Networks in ANSI C89/90 Multiparadigms)
+### 1. Summation Operator reduced to pseudocode 
 
 <p align="justify">  
 The above equation is a summation. If you are unfamiliar with sigma notation, it is essentially the same thing as a programming for loop.
 </p>
 
 <img width="1145" height="355" alt="Image" src="https://github.com/user-attachments/assets/5e856cb7-3593-4e64-a5e0-60bdadb670de" />
+
+### 2. Neural Networks in ANSI C89/90 Multiparadigms
+
 
 ---
 
