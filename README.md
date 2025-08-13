@@ -42,6 +42,9 @@ For i from 1 to 10 do
 End For
 Return sum
 ```
+<p align="justify">  
+As you can see, the summation operator is very similar to a for loop. The information just below the sigma symbol species the stating value and the indexing variable. The information above the sigma species the limit of the loop. The information to the right of sigma specifies the value that is being summed.
+</p>
 
 ### 2. ANSI C89/90 Multiparadigms
 
