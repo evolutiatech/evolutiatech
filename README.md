@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 ---
 ### "Think about math, don't know how to do calculations, go study"
 ---
-### Recommendation, solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
+### Recommendation:
+
+• Solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
+
 ---
 ### Reference Books: 
 
