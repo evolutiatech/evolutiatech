@@ -108,3 +108,11 @@ int compute_sum() {
 <p align="justify">
 We will begin by looking at how a neural network calculates its output. You should already know the structure of a neural network from the book’s introduction. Consider a neural network such as the one in below:
 </p>
+
+<img width="1141" height="439" alt="Image" src="https://github.com/user-attachments/assets/9221248e-ee25-4c78-8eb6-a2e3c9547cc0" />
+
+<p align="justify">
+This neural network has one output neuron. As a result, it will have one output value. To calculate the value of this output neuron (O1), we must calculate the activation for each of the inputs into O1. The inputs that feed into O1 are H1, H2 and B2. The activation for B2 is simply 1.0, because it is a bias neuron. However, H1 and H2 must be calculated independently. To calculate H1 and H2, the activations of I1, I2 and B1 must be considered. Though H1 and H2 share the same inputs, they will not calculate to the same activation. This is because they have different weights. The weights are represented by lines in the above diagram.
+</p>
+
+First we must look at how one activation calculation is done. This same activation calculation can then be applied to the other activation calculations. We will examine how H1 is calculated. Figure Below shows only the inputs to H1.
