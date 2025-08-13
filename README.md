@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Summation Operator to Code
+
+
+
 ## Stellar Guardians - Crazy formula ⚡
 
 ![Image](https://github.com/user-attachments/assets/9c5fe66c-4de8-4bc4-8290-c12b667d804b)
