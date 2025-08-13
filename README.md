@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 ### Recommendation:
 
-• Solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90.
+• Solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90 Multiparadigms Programming.
 
 ---
 ### Reference Books: 
