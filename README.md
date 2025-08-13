@@ -138,7 +138,7 @@ There are also three weight values considered w1, w2 and w3. These are the weigh
 
 ### • ANSI C89/90 Multiparadigms
 
-``c
+```c
 #include <stdio.h>
 
 /* Prototype for the activation function A */
@@ -165,8 +165,10 @@ int main() {
     return 0;
 }
 
+/* 
 /* Implementation of the activation function A
-   For example, a simple threshold function */
+/* For example, a simple threshold function 
+*/
 double A(double x) {
     /* You can modify this function as needed */
     if (x > 0.0)
@@ -174,4 +176,4 @@ double A(double x) {
     else
         return 0.0;
 }
-``
+```
