@@ -136,6 +136,36 @@ To understand Equation Above, we first examine the variables that go into it. Fo
 There are also three weight values considered w1, w2 and w3. These are the weighted connections between H1 and the previous layer. Therefore, the variables to this equation are:
 </p>
 
+```c
+
+pseudocode
+
+/* Define number of connections */
+n = 3
+
+/* Initialize input values
+i[1] = first input value to the neural network 
+i[2] = second input value to the neural network
+i[3] = 1 bias input B1
+
+/* Initialize weights */
+w[1] = weight from I1 to H1
+w[2] = weight from I2 to H1
+w[3] = weight from B1 to H1 
+
+/* Initialize sum */
+sum = 0
+
+/* Perform the summation (sigma) */
+for c = 1 to n do
+    sum = sum + (w[c] * i[c])
+end for
+
+/* Apply the activation function */
+sum = A(sum)
+
+```
+
 ### • ANSI C89/90 Multiparadigms
 
 ```c
