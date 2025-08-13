@@ -239,9 +239,9 @@ int main() {
 }
 
 /* 
-/* Implementation of the activation function A
-/* For example, a simple threshold function 
-*/
+ * Implementation of the activation function A
+ * For example, a simple threshold function 
+ */
 double A(double x) {
     /* You can modify this function as needed */
     if (x > 0.0)
@@ -249,4 +249,5 @@ double A(double x) {
     else
         return 0.0;
 }
+
 ```
