@@ -58,9 +58,6 @@ In this section, we will take a quick look at the summation operator. The summat
 
 <img width="1145" height="355" alt="Image" src="https://github.com/user-attachments/assets/5b713cdf-c3d1-4920-bd87-da7b78542d06" />
 
-
-### • Pseudocode
-
 ```c
 
 pseudocode
@@ -75,11 +72,9 @@ Return sum
 As you can see, the summation operator is very similar to a for loop. The information just below the sigma symbol species the stating value and the indexing variable. The information above the sigma species the limit of the loop. The information to the right of sigma specifies the value that is being summed.
 </p>
 
-### • ANSI C89/90 Multiparadigms
-
 ```c
 
-ANSI C89/90
+ANSI C89/90 Multiparadigms
 
 #include <stdio.h>
 
@@ -143,8 +138,6 @@ To understand Equation Above, we first examine the variables that go into it. Fo
 There are also three weight values considered w1, w2 and w3. These are the weighted connections between H1 and the previous layer. Therefore, the variables to this equation are:
 </p>
 
-### • Pseudocode
-
 ```c
 
 pseudocode
@@ -172,14 +165,11 @@ end for
 
 /* Apply the activation function */
 sum = A(sum)
-
 ```
-
-### • ANSI C89/90 Multiparadigms
 
 ```c
 
-ANSI C89/90
+ANSI C89/90 Multiparadigms
 
 #include <stdio.h>
 
@@ -255,9 +245,9 @@ sum = A(sum)
 Here we sum up each of the inputs times its respective weight. Finally this sum is passed to an activation function. Activation functions are a very important concept in neural network programming. In the next section we will examine activation functions.
 </p>
 
-### • ANSI C89/90 Multiparadigms
-
 ```c
+
+ANSI C89/90 Multiparadigms
 
 #include <stdio.h>
 
