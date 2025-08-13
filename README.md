@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 • Solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90 Multiparadigms Programming.
 
 ---
+
 ### Reference Books: 
 
 • "Algebra: Form and Function";
@@ -43,6 +44,10 @@ Here are some ideas to get you started:
 
 ### 1. Neural Network Principles and Applications
 
+#### Introduction
+
+Neural networks are a subset of machine learning models inspired by the structure and functioning of the human brain. They are designed to recognize patterns, learn from data, and make decisions or predictions. Neural networks have revolutionized many fields due to their ability to handle complex, high-dimensional data.
+
 Here's an overview of Neural Network Principles and Applications:
 
 • Summation;
@@ -52,13 +57,6 @@ Here's an overview of Neural Network Principles and Applications:
 • Activation Functions;
 
 • Bias Neurons.
-
----
-
-### Neural Network Principles and Applications
-
-#### Introduction
-Neural networks are a subset of machine learning models inspired by the structure and functioning of the human brain. They are designed to recognize patterns, learn from data, and make decisions or predictions. Neural networks have revolutionized many fields due to their ability to handle complex, high-dimensional data.
 
 ---
 
