@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 ### "Think about math, don't know how to do calculations, go study"
 ---
 
-### Neural Network Principles and Applications - Eg: Minimal Example - Davada Zaita
+### Neural Network Principles and Applications 
+
+<p>Eg: Minimal Example - Davada Zaita</p>
 
 • Summation;
 
