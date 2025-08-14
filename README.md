@@ -34,7 +34,7 @@ Certainly! Developing a **computational model** of NASAMS, especially with a foc
 
 ---
 
-# **Developing a NASAMS Computational Model with AI in ANSI C89/90**
+### **Developing a NASAMS Computational Model with AI in ANSI C89/90**
 
 ## 1. **System Architecture Overview**
 
