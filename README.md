@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 
 <p align="justify">
    
----
 #### "Think about math, don't know how to do calculations, go study"
 ---
 #### Recommendation:
