@@ -29,7 +29,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
-**STEPS - Clarification and Explanation (mathematical, physical and chemical model)**
+**STEPS - Clarification and Explanation (mathematical, physical and chemical problem)**
 
 • 0. Hypothetical problem;
 
