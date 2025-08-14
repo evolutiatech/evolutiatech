@@ -27,9 +27,9 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 #### Solution to hypothetical calculation problems
 
-**STEPS - Clarification and Explanation (mathematical, physical and chemical model)**
-
 ---
+
+**STEPS - Clarification and Explanation (mathematical, physical and chemical model)**
 
 • 0. Hypothetical problem;
 
