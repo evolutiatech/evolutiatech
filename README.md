@@ -7,36 +7,6 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 ![Image](https://github.com/user-attachments/assets/9085094a-282e-4f9d-b04b-ec01b8924d42)
 
 ---
-
-### Restoration of Hebrew, Rebuilding the David Dynasty And Days of Days: 
-
----
-
-<p align="justify">
-   
-**JPS Bible**
----
-   • Amos - Chapter 9: 11
-   
-   **On that day, I will raise up the fallen Tabernacle of David, and I will close up their breaches, and I will raise up its ruins, and build it up as in the days of yore.**
-
-   • Isaiah - Chapter 43: 11-14
-
-   **None but me,  GOD; Beside Me, none can grant triumph. I alone foretold the triumph And I brought it to pass; I announced it, And no strange god was among you. So you are My witnesses—declares GOD—And I am God. Ever since day was, I am the One; None can deliver from My hand. When I act, who can reverse it? Thus said  GOD, Your Redeemer, the Holy One of Israel: For your sake I send to Babylon; I will bring down all [her] bars, And the Chaldeans shall raise their voice in lamentation.**
-   
-   • Isaiah - Chapter 46: 9-13
-   
-   **Bear in mind what happened of old; For I am God, and there is none else, I am divine, and there is none like Me. I foretell the end from the beginning,
-And from the start, things that had not occurred. I say: My plan shall be fulfilled; I will do all I have purposed. I summoned that swooping bird from the East; From a distant land, the man for My purpose. I have spoken, so I will bring it to pass; I have designed it, so I will complete it. Listen to Me, you stubborn of heart, Who are far from victory: I am bringing My victory close; It shall not be far, And My triumph shall not be delayed. I will grant triumph in Zion To Israel, in whom I glory.**
-
-   • Malachi - Chapter 3: 22-24
-   
-   **Keep in remembrance the teaching of Moses, My servant-the laws and ordinances which I commanded him in Horeb for all Israel. Lo, I will send you Elijah the prophet before the coming of the great and awesome day of the Lord, that he may turn the heart of the fathers back through the children, and the heart of the children back through their fathers-lest I come and smite the earth with utter destruction.**
-   
-</p>
-
----
-
 <!--
 **evolutiatech/evolutiatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,9 +22,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="justify">
-   
 #### "Think about math, don't know how to do calculations, go study"
+---
+
+<p align="justify">
+
+Here's a clearer, rephrased version of your hypothetical problem, along with its formal mathematical model and pseudocode.
+
+##### Hypothetical Problem Statement
+
+Suppose we need to create a weekly service schedule for military personnel. Each week, personnel are assigned to different shifts labeled as:
+
+    • Black Schedule: Weekday shifts (Monday to Friday)
+    • Red Schedule: Weekend and holiday shifts (Saturday, Sunday, and official holidays)
+
+The goal is to assign personnel to these shifts over a planning period, ensuring fairness, respecting availability, and complying with operational constraints.
+
+</p>
+
+<p align="justify">
+
 ---
 #### Recommendation:
 
@@ -406,3 +393,34 @@ The hyperbolic tangent function is actually a trigonometric function. However, o
 <img width="1092" height="448" alt="Image" src="https://github.com/user-attachments/assets/6ed91577-0fdc-4c7b-8154-83152bd77e13" />
 
 </p>
+
+---
+
+### Restoration of Hebrew, Rebuilding the David Dynasty And Days of Days: 
+
+---
+
+<p align="justify">
+   
+**JPS Bible**
+---
+   • Amos - Chapter 9: 11
+   
+   **On that day, I will raise up the fallen Tabernacle of David, and I will close up their breaches, and I will raise up its ruins, and build it up as in the days of yore.**
+
+   • Isaiah - Chapter 43: 11-14
+
+   **None but me,  GOD; Beside Me, none can grant triumph. I alone foretold the triumph And I brought it to pass; I announced it, And no strange god was among you. So you are My witnesses—declares GOD—And I am God. Ever since day was, I am the One; None can deliver from My hand. When I act, who can reverse it? Thus said  GOD, Your Redeemer, the Holy One of Israel: For your sake I send to Babylon; I will bring down all [her] bars, And the Chaldeans shall raise their voice in lamentation.**
+   
+   • Isaiah - Chapter 46: 9-13
+   
+   **Bear in mind what happened of old; For I am God, and there is none else, I am divine, and there is none like Me. I foretell the end from the beginning,
+And from the start, things that had not occurred. I say: My plan shall be fulfilled; I will do all I have purposed. I summoned that swooping bird from the East; From a distant land, the man for My purpose. I have spoken, so I will bring it to pass; I have designed it, so I will complete it. Listen to Me, you stubborn of heart, Who are far from victory: I am bringing My victory close; It shall not be far, And My triumph shall not be delayed. I will grant triumph in Zion To Israel, in whom I glory.**
+
+   • Malachi - Chapter 3: 22-24
+   
+   **Keep in remembrance the teaching of Moses, My servant-the laws and ordinances which I commanded him in Horeb for all Israel. Lo, I will send you Elijah the prophet before the coming of the great and awesome day of the Lord, that he may turn the heart of the fathers back through the children, and the heart of the children back through their fathers-lest I come and smite the earth with utter destruction.**
+   
+</p>
+
+---
