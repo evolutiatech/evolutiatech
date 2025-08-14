@@ -5,7 +5,7 @@
 <p align="justify">
    
 **JPS Bible**
-
+---
    • Isaiah - Chapter 43: 11-14
 
   **None but me,  GOD; Beside Me, none can grant triumph. I alone foretold the triumph And I brought it to pass; I announced it, And no strange god was among you. So you are My witnesses—declares GOD—And I am God. Ever since day was, I am the One; None can deliver from My hand. When I act, who can reverse it? Thus said  GOD, Your Redeemer, the Holy One of Israel: For your sake I send to Babylon; I will bring down all [her] bars, And the Chaldeans shall raise their voice in lamentation.**
