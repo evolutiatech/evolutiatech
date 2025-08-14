@@ -31,7 +31,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ### NASAMS (National Advanced Surface-to-Air Missile System) 
 
-OBS: Built Nationally Military Engineers with an indefinite period until "retired"
+OBS: Built Nationally Military Engineers with an indefinite period until is a "retired"
 
 A comprehensive covering additional details about NASAMS, including technical specifications, operational scenarios, development considerations, and how to approach modeling or learning more about the system.
 
