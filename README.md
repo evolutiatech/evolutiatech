@@ -5,6 +5,7 @@
 <p align="justify">
    
 **JPS Bible**
+
    • Amos - Chapter 9: 11
    
    **On that day, I will raise up the fallen Tabernacle of David, and I will close up their breaches, and I will raise up its ruins, and build it up as in the days of yore.**
@@ -17,6 +18,7 @@ And from the start, things that had not occurred. I say: My plan shall be fulfil
    • Malachi - Chapter 3: 22-24
    
    **Keep in remembrance the teaching of Moses, My servant-the laws and ordinances which I commanded him in Horeb for all Israel. Lo, I will send you Elijah the prophet before the coming of the great and awesome day of the Lord, that he may turn the heart of the fathers back through the children, and the heart of the children back through their fathers-lest I come and smite the earth with utter destruction.**
+   
 </p>
 
 ---
