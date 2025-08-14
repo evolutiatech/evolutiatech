@@ -1,4 +1,4 @@
-### Rebuilding the David Dynasty And Days of Days: 
+### Restoration of Israel, Rebuilding the David Dynasty And Days of Days: 
 
 ---
 
