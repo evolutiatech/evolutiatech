@@ -25,13 +25,13 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 #### "Think about math, don't know how to do calculations, go study"
 ---
 
-#### STEPS - Clarification and Explanation
+#### STEPS - Clarification and Explanation (mathematical, physical and chemical model)
 
 ---
 
 • 0. Hypothetical problem;
 
-• 1. Mathematical model and pseudocode;
+• 1. Mathematical, physical and chemical model and pseudocode;
 
 • 2. Computational model and implementation.
 
