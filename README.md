@@ -25,6 +25,8 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ####  The Science of In Fighting
 
+![Image](https://github.com/user-attachments/assets/83675678-4787-4da7-9166-5fe7229166a5)
+
 https://youtu.be/YnzXjJC477E
 
 ---
