@@ -23,6 +23,12 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
+### To do money for open colletive projects
+
+https://opencollective.com/
+
+---
+
 ### Air Defense System - NASAMS
 
 ---
@@ -32,11 +38,6 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 ---
 
 <p align="justify">
-
----
-### To money colletive projects
-
-https://opencollective.com/
 
 ---
 
