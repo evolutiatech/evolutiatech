@@ -43,9 +43,9 @@ A comprehensive covering additional details about NASAMS, including technical sp
 
 • For AI Help: https://www.deepseek.com/ 
 
-• For AI TEST GPT4ALL: https://www.nomic.ai/gpt4all
+• For AI TEST LAB GPT4ALL: https://www.nomic.ai/gpt4all
 
-• For Trained AI: 
+• For Trained AI TEST LAB: 
 
     - https://huggingface.co/models
     
