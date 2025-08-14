@@ -83,8 +83,8 @@ If you're interested in developing a **computational or simulation model** for N
 - Model interactions: detection, tracking, target assignment, missile guidance.
 
 #### 2. **Choosing Simulation Tools**
+- ANSI C89/90 rewriting libraries NumPy, SciPy, and others visualization tools.
 - MATLAB/Simulink for dynamic system modeling.
-- Python with libraries like NumPy, SciPy, and visualization tools.
 - Specialized simulation environments like Modelica or defense-specific software.
 
 #### 3. **Simulating Key Components**
