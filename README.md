@@ -42,9 +42,13 @@ A comprehensive covering additional details about NASAMS, including technical sp
 ### OBS: Built Nationally Military Engineers with an indefinite period until is a "RETIRED".
 
 • For AI Help: https://www.deepseek.com/ 
-• For AI TEST: [GPt4ALL and ](https://www.nomic.ai/gpt4all)
-• For Trained AI: https://huggingface.co/models | https://huggingface.co/datasets | https://huggingface.co/spaces 
 
+• For AI TEST: [GPt4ALL and ](https://www.nomic.ai/gpt4all)
+
+• For Trained AI: 
+    - https://huggingface.co/models
+    - https://huggingface.co/datasets
+    - https://huggingface.co/spaces 
 ---
 
 ### **Detailed Technical Specifications**
