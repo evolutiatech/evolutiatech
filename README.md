@@ -10,7 +10,7 @@
 
 **On that day, I will raise up the fallen Tabernacle of David, and I will close up their breaches, and I will raise up its ruins, and build it up as in the days of yore.**
 
-• Malachi - Chapter 3: 23-24 
+• Malachi - Chapter 3: 22-24 
    
 **Keep in remembrance the teaching of Moses, My servant-the laws and ordinances which I commanded him in Horeb for all Israel. Lo, I will send you Elijah the prophet before the coming of the great and awesome day of the Lord, that he may turn the heart of the fathers back through the children, and the heart of the children back through their fathers-lest I come and smite the earth with utter destruction.**
 </p>
