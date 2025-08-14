@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 #### STEPS 
 
 • 1. hypothetical problem;
+
 • 2. Mathematical model and pseudocode;
+
 • 3. Computational Model and Implementation.
+
+---
 
 <p align="justify">
 
