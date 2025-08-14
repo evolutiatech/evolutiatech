@@ -29,8 +29,9 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
-<p align="justify"> 
-Certainly! Developing a **computational model** of NASAMS, especially with a focus on **AI integration** and implementing it in **ANSI C89/90**, is a substantial project. Below is an extended, structured guide that covers **system architecture**, **core components**, **AI integration considerations**, and **sample code snippets** to help you get started.
+<p align="justify">
+  
+#### Developing a **computational model** of NASAMS, especially with a focus on **AI integration** and implementing it in **ANSI C89/90**, is a substantial project. Below is an extended, structured guide that covers **system architecture**, **core components**, **AI integration considerations**, and **sample code snippets** to help you get started.
 
 ---
 
