@@ -40,7 +40,7 @@ The goal is to assign personnel to these shifts over a planning period, ensuring
 
 ---
 
-#### Computational problem
+#### Computational problem - Trivial Algorithm
 
 • Implement the Pseudoalgorithm in ANSI C89/90 Multiparadigm taking into BIG O complexity.
 
@@ -61,6 +61,60 @@ Overview of the Approach:
             Calculate workload balance.
             Optionally, reassign to improve fairness.
         Output the final schedule.
+---
+
+#### Computational problem - Complex Algorithm
+
+• Clarification and Improved Explanation:
+
+After implementing the basic, straightforward version of the scheduling algorithm, the next step is to enhance it into a more sophisticated, intelligent system. This advanced version should incorporate principles of an expert system, enabling it to manage the scheduling process more effectively and adaptively.
+
+What does this mean?
+
+    From Trivial to Intelligent:
+    The initial implementation performs simple greedy assignments based on availability and workload fairness. It doesn't consider complex constraints, preferences, or dynamic conditions.
+
+    Expert System Approach:
+    An expert system uses a knowledge base of rules, facts, and heuristics to emulate decision-making by a human expert. It can reason about multiple factors, handle uncertainty, and adapt its behavior based on evolving data.
+
+    Goal of the Enhancement:
+    To develop a knowledge-driven, rule-based scheduling system that can:
+        Analyze personnel skills, preferences, and constraints.
+        Consider service demand patterns.
+        Balance workloads more intelligently.
+        Handle special conditions (holidays, emergencies).
+        Improve decision quality beyond simple heuristics.
+
+How to Implement an Expert System for Scheduling in C (Conceptual Overview):
+
+    Knowledge Base:
+        Store rules and facts about personnel skills, availability, preferences, and constraints.
+        For example:
+            "Personnel P with skill S can only work on shifts requiring skill S."
+            "Personnel should not exceed maximum weekly shifts."
+            "Prefer personnel with fewer assigned shifts to balance workload."
+
+    Inference Engine:
+        Apply rules to make decisions:
+            Which personnel to assign to each shift.
+            How to resolve conflicts (e.g., multiple personnel equally qualified).
+            When to prioritize certain personnel or shift types.
+
+    Fact Updating:
+        After each assignment, update the knowledge base with new facts:
+            Updated workloads.
+            Personnel availability changes.
+            Shift requirements.
+
+    Decision-Making Process:
+        Use rule-based reasoning:
+            For each shift, evaluate personnel based on rules.
+            Select the best candidate(s) considering all constraints and rules.
+            Assign accordingly.
+
+    Learning and Adaptation (Optional):
+        Incorporate feedback mechanisms to refine rules based on past scheduling outcomes.
+        Adjust priorities dynamically.
 
 </p>
 
