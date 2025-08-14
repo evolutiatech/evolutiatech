@@ -23,7 +23,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
-### To do money for open colletive projects
+### • To do money for open colletive projects
 
 ---
 
@@ -33,7 +33,7 @@ https://github.com/opencollective
 
 ---
 
-### AI Personal Development
+### • AI Personal Development
 
 ---
 
