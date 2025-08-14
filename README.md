@@ -42,7 +42,7 @@ Developing a computational model of the NASAMS (National Advanced Surface-to-Air
   - Comprehensive coverage of missile guidance principles, control systems, and algorithms. Essential for understanding how to simulate missile trajectories and guidance logic.
 
 #### 2. **Radar Systems and Signal Processing**
-- **"Radar Signal Processing" by Carl Schurn
+- **"Radar Signal Processing" by Carl Schurn**
   - Offers insights into radar detection, tracking, and signal processing techniques, crucial for modeling the radar component of NASAMS.
 
 - **"Fundamentals of Radar Signal Processing" by Mark A. Richards**
