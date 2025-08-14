@@ -31,7 +31,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 • 0. The Art of High-Impact Kicking ( 1 / 5 )
 
-https://www.youtube.com/watch?v=NGu86RX3eqg&pp=ygUeVGhlIEFydCBvZiBIaWdoLUltcGFjdCBLaWNraW5n
+https://youtu.be/NGu86RX3eqg
 
 • 1. The Art of High-Impact Kicking ( 2 / 5 )
 
