@@ -16,13 +16,13 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
    
 **JPS Bible**
 ---
-   • Isaiah - Chapter 43: 11-14
-
-  **None but me,  GOD; Beside Me, none can grant triumph. I alone foretold the triumph And I brought it to pass; I announced it, And no strange god was among you. So you are My witnesses—declares GOD—And I am God. Ever since day was, I am the One; None can deliver from My hand. When I act, who can reverse it? Thus said  GOD, Your Redeemer, the Holy One of Israel: For your sake I send to Babylon; I will bring down all [her] bars, And the Chaldeans shall raise their voice in lamentation.**
-
    • Amos - Chapter 9: 11
    
    **On that day, I will raise up the fallen Tabernacle of David, and I will close up their breaches, and I will raise up its ruins, and build it up as in the days of yore.**
+
+   • Isaiah - Chapter 43: 11-14
+
+   **None but me,  GOD; Beside Me, none can grant triumph. I alone foretold the triumph And I brought it to pass; I announced it, And no strange god was among you. So you are My witnesses—declares GOD—And I am God. Ever since day was, I am the One; None can deliver from My hand. When I act, who can reverse it? Thus said  GOD, Your Redeemer, the Holy One of Israel: For your sake I send to Babylon; I will bring down all [her] bars, And the Chaldeans shall raise their voice in lamentation.**
    
    • Isaiah - Chapter 46: 9-13
    
