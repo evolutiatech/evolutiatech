@@ -39,9 +39,9 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 <p align="justify">
 
-Here's a clearer, rephrased version of your hypothetical problem, along with its formal mathematical model and pseudocode.
-
 ##### Hypothetical Problem Statement: 
+
+Here's a clearer, rephrased version of your hypothetical problem, along with its formal mathematical model and pseudocode.
 
  • Service schedule for military personnel
 
