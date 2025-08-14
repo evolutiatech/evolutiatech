@@ -521,6 +521,7 @@ And from the start, things that had not occurred. I say: My plan shall be fulfil
 
 ---
 #### The Science of In-Fighting By Wong Shun Leung
+---
 
 ![Image](https://github.com/user-attachments/assets/c4a13e22-4622-4b61-9842-5db827512937)
 
@@ -529,6 +530,9 @@ https://youtu.be/YnzXjJC477E
 ---
 
 #### The Art of High-impact Kicking By Hwang Jang Lee
+
+---
+
 
 ![Image](https://github.com/user-attachments/assets/4a18052c-8184-47a8-8cdb-00bb2caa0dae)
 
