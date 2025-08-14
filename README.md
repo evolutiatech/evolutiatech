@@ -22,42 +22,6 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 ![Image](https://github.com/user-attachments/assets/9085094a-282e-4f9d-b04b-ec01b8924d42)
 
 ---
-
-#### The Science of In-Fighting By Wong Shun Leung
-
-![Image](https://github.com/user-attachments/assets/c4a13e22-4622-4b61-9842-5db827512937)
-
-https://youtu.be/YnzXjJC477E
-
----
-
-#### The Art of High-impact Kicking By Hwang Jang Lee
-
-![Image](https://github.com/user-attachments/assets/4a18052c-8184-47a8-8cdb-00bb2caa0dae)
-
----
-
-• 0. The Art of High-Impact Kicking ( 1 / 5 )
-
-https://youtu.be/NGu86RX3eqg
-
-• 1. The Art of High-Impact Kicking ( 2 / 5 )
-
-https://youtu.be/-29odVJ57nY
-
-• 2. The Art of High-Impact Kicking ( 3 / 5 )
-
-https://youtu.be/XE0UVcWd6HU
-
-• 3. The Art of High-Impact Kicking ( 4 / 5 )
-
-https://youtu.be/CoNJY8mv57k
-
-• 4. The Art of High-Impact Kicking ( 4 / 5 )
-
-https://youtu.be/CxyFv_-Z5S0
-
----
 #### "Think about math, don't know how to do calculations, go study"
 ---
 
@@ -556,3 +520,36 @@ And from the start, things that had not occurred. I say: My plan shall be fulfil
 </p>
 
 ---
+#### The Science of In-Fighting By Wong Shun Leung
+
+![Image](https://github.com/user-attachments/assets/c4a13e22-4622-4b61-9842-5db827512937)
+
+https://youtu.be/YnzXjJC477E
+
+---
+
+#### The Art of High-impact Kicking By Hwang Jang Lee
+
+![Image](https://github.com/user-attachments/assets/4a18052c-8184-47a8-8cdb-00bb2caa0dae)
+
+---
+
+• 0. The Art of High-Impact Kicking ( 1 / 5 )
+
+https://youtu.be/NGu86RX3eqg
+
+• 1. The Art of High-Impact Kicking ( 2 / 5 )
+
+https://youtu.be/-29odVJ57nY
+
+• 2. The Art of High-Impact Kicking ( 3 / 5 )
+
+https://youtu.be/XE0UVcWd6HU
+
+• 3. The Art of High-Impact Kicking ( 4 / 5 )
+
+https://youtu.be/CoNJY8mv57k
+
+• 4. The Art of High-Impact Kicking ( 4 / 5 )
+
+https://youtu.be/CxyFv_-Z5S0
