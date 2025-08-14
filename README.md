@@ -39,9 +39,9 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 • For AI Help: https://www.deepseek.com 
 
-• For AI TEST LAB GPT4ALL: https://www.nomic.ai/gpt4all
+• For AI LOCALHOST GPT4ALL - TEST LAB: https://www.nomic.ai/gpt4all
 
-• For Trained AI TEST LAB: 
+• For Trained AI - TEST LAB: 
 
     - https://huggingface.co/models
     
