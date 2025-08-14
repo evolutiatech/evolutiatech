@@ -31,13 +31,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
-<p align="justify"> 
-
-### NASAMS (National Advanced Surface-to-Air Missile System) 
-
-A comprehensive covering additional details about NASAMS, including technical specifications, operational scenarios, development considerations, and how to approach modeling or learning more about the system.
-
----
+<p align="justify">
 
 ### OBS: Built Nationally Military Engineers with an indefinite period until is a "RETIRED".
 
@@ -52,6 +46,12 @@ A comprehensive covering additional details about NASAMS, including technical sp
     - https://huggingface.co/datasets
     
     - https://huggingface.co/spaces 
+---    
+
+### NASAMS (National Advanced Surface-to-Air Missile System) 
+
+A comprehensive covering additional details about NASAMS, including technical specifications, operational scenarios, development considerations, and how to approach modeling or learning more about the system.
+
 ---
 
 ### **Detailed Technical Specifications**
