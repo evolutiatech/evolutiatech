@@ -37,17 +37,17 @@ A comprehensive continuation covering additional details about NASAMS, including
 
 ### **Detailed Technical Specifications**
 
-|             Aspect         |                                                            Details                                                        |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **System Type**            | Medium-range surface-to-air missile defense system                                                                        |
-| **Primary Missiles**       | AIM-120 AMRAAM (adapted for surface launch)                                                                               |
-| **Range**                  | Up to approximately 25 km (varies depending on missile variant and target)                                                |
-| **Engagement Altitude**    | Up to 15-20 km                                                                                                            |
-| **Reaction Time**          | Less than 10 seconds from target detection to missile launch                                                              |
-| **Mobility**               | Road-mobile, typically mounted on standard military trucks or trailers                                                    |
-| **Radar**                  | AN/MPQ-64 Sentinel or equivalent, capable of target detection at long ranges                                              |
-| **Command & Control**      | Centralized Fire Distribution Center (FDC) with real-time data processing                                                 |
-| **Networked Architecture** | Can be integrated with other sensors and command systems such as NATO’s Integrated Air and Missile Defense (IAMD) network |
+|             Aspect           |                                                            Details                                                        |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **System Type**              | Medium-range surface-to-air missile defense system                                                                        |
+| **Primary Missiles**         | AIM-120 AMRAAM (adapted for surface launch)                                                                               |
+| **Range**                    | Up to approximately 25 km (varies depending on missile variant and target)                                                |
+| **Engagement Altitude**      | Up to 15-20 km                                                                                                            |
+| **Reaction Time**            | Less than 10 seconds from target detection to missile launch                                                              |
+| **Mobility**                 | Road-mobile, typically mounted on standard military trucks or trailers                                                    |
+| **Radar**                    | AN/MPQ-64 Sentinel or equivalent, capable of target detection at long ranges                                              |
+| **Command & Control**        | Centralized Fire Distribution Center (FDC) with real-time data processing                                                 |
+| **Networked Architecture**   | Can be integrated with other sensors and command systems such as NATO’s Integrated Air and Missile Defense (IAMD) network |
 
 ---
 
