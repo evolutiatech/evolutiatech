@@ -41,7 +41,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 • For AI Private GPT4ALL - TEST LAB: https://www.nomic.ai/gpt4all
 
-• For Trained AI - TEST LAB: 
+• For Trained AI - TEST LAB: https://huggingface.co
 
     - https://huggingface.co/models
     
