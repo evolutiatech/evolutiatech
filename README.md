@@ -2,23 +2,15 @@
 
 ---
 
-<p align="justify"> 
-
-**JPS Bible**   
-   
-• Amos - Chapter 9: 11 
-
-**On that day, I will raise up the fallen Tabernacle of David, and I will close up their breaches, and I will raise up its ruins, and build it up as in the days of yore.**
-
-• Isaiah - Chapter 46: 9-13 
-
-**Bear in mind what happened of old; For I am God, and there is none else, I am divine, and there is none like Me. I foretell the end from the beginning,
+<p align="justify">
+**JPS Bible**
+   • Amos - Chapter 9: 11
+   **On that day, I will raise up the fallen Tabernacle of David, and I will close up their breaches, and I will raise up its ruins, and build it up as in the days of yore.**
+   • Isaiah - Chapter 46: 9-13
+   **Bear in mind what happened of old; For I am God, and there is none else, I am divine, and there is none like Me. I foretell the end from the beginning,
 And from the start, things that had not occurred. I say: My plan shall be fulfilled; I will do all I have purposed. I summoned that swooping bird from the East; From a distant land, the man for My purpose. I have spoken, so I will bring it to pass; I have designed it, so I will complete it. Listen to Me, you stubborn of heart, Who are far from victory: I am bringing My victory close; It shall not be far, And My triumph shall not be delayed. I will grant triumph in Zion To Israel, in whom I glory.**
-
-
-• Malachi - Chapter 3: 22-24 
-   
-**Keep in remembrance the teaching of Moses, My servant-the laws and ordinances which I commanded him in Horeb for all Israel. Lo, I will send you Elijah the prophet before the coming of the great and awesome day of the Lord, that he may turn the heart of the fathers back through the children, and the heart of the children back through their fathers-lest I come and smite the earth with utter destruction.**
+   • Malachi - Chapter 3: 22-24
+   **Keep in remembrance the teaching of Moses, My servant-the laws and ordinances which I commanded him in Horeb for all Israel. Lo, I will send you Elijah the prophet before the coming of the great and awesome day of the Lord, that he may turn the heart of the fathers back through the children, and the heart of the children back through their fathers-lest I come and smite the earth with utter destruction.**
 </p>
 
 ---
