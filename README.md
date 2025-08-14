@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 #### "Think about math, don't know how to do calculations, go study"
 ---
 
+#### STEPS 
+
+• 1. hypothetical problem;
+• 2. Mathematical model and pseudocode;
+• 3. Computational Model and Implementation.
+
 <p align="justify">
 
 Here's a clearer, rephrased version of your hypothetical problem, along with its formal mathematical model and pseudocode.
