@@ -23,6 +23,8 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
+<p align="justify"> 
+
 ### Air Defense System - NASAMS (National Advanced Surface-to-Air Missile System)
 
 ![Image](https://github.com/user-attachments/assets/090f3d13-cdb4-49b9-b218-d59d3e1c2e6a)
@@ -69,6 +71,8 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 - **Legal & Strategic:** Compliance with international treaties and strategic stability considerations.
 
 ---
+
+</p>
 
 <p align="justify">
   
