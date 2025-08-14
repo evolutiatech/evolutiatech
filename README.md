@@ -1,5 +1,7 @@
 ### Rebuilding the David Dynasty And Days of Days: 
 
+---
+
 <p align="justify"> 
 
 **JPS Bible**   
