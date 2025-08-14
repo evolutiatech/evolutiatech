@@ -27,6 +27,47 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ![Image](https://github.com/user-attachments/assets/090f3d13-cdb4-49b9-b218-d59d3e1c2e6a)
 
+### A comprehensive covering additional details about NASAMS, including technical specifications, operational scenarios, development considerations, and how to approach modeling or learning more about the system.
+
+---
+
+### **Detailed Technical Specifications**
+
+|             Aspect           |                                                            Details                                                        |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **System Type**              | Medium-range surface-to-air missile defense system                                                                        |
+| **Primary Missiles**         | AIM-120 AMRAAM (adapted for surface launch)                                                                               |
+| **Range**                    | Up to approximately 25 km (varies depending on missile variant and target)                                                |
+| **Engagement Altitude**      | Up to 15-20 km                                                                                                            |
+| **Reaction Time**            | Less than 10 seconds from target detection to missile launch                                                              |
+| **Mobility**                 | Road-mobile, typically mounted on standard military trucks or trailers                                                    |
+| **Radar**                    | AN/MPQ-64 Sentinel or equivalent, capable of target detection at long ranges                                              |
+| **Command & Control**        | Centralized Fire Distribution Center (FDC) with real-time data processing                                                 |
+| **Networked Architecture**   | Can be integrated with other sensors and command systems such as NATO’s Integrated Air and Missile Defense (IAMD) network |
+
+---
+
+### **Operational Scenarios**
+
+- **Point Defense:** Protect critical infrastructure like airports, military bases, power plants, and government facilities.
+- **Area Defense:** Cover a broader area by deploying multiple NASAMS units working together.
+- **Layered Defense Integration:** Combine with long-range systems like the Patriot or S-400 to create multi-tiered defense architectures.
+- **Threat Types Addressed:**
+  - Aircraft and fighter jets
+  - Drones and UAVs
+  - Cruise missiles
+  - Short-range ballistic missiles (with upgrades)
+
+---
+
+### **Development and Deployment Considerations**
+
+- **Integration with Existing Systems:** Ensuring compatibility with national and NATO command networks.
+- **Upgradability:** Modular hardware and software for future missile types and sensor upgrades.
+- **Training and Simulation:** Development of realistic training environments for operators using simulation tools.
+- **Maintenance & Logistics:** Establishing supply chains for missiles, spare parts, and system maintenance.
+- **Legal & Strategic:** Compliance with international treaties and strategic stability considerations.
+
 ---
 
 <p align="justify">
@@ -35,7 +76,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
-### **Developing a NASAMS Computational Model with AI in ANSI C89/90**
+### **Developing a NASAMS with AI in ANSI C89/90**
 
 ## 1. **System Architecture Overview**
 
@@ -100,50 +141,6 @@ Building a **NASAMS simulation with AI features** in **ANSI C89/90** involves:
 ---
 
 **Note:** Due to the constraints of ANSI C89/90, advanced AI (like neural networks) is challenging to implement directly; often, heuristic or rule-based systems are more feasible. For complex AI, consider interfacing with external libraries or languages, or precomputing decision rules.
-
----
-
-
-A comprehensive continuation covering additional details about NASAMS, including technical specifications, operational scenarios, development considerations, and how to approach modeling or learning more about the system.
-
----
-
-### **Detailed Technical Specifications**
-
-|             Aspect           |                                                            Details                                                        |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **System Type**              | Medium-range surface-to-air missile defense system                                                                        |
-| **Primary Missiles**         | AIM-120 AMRAAM (adapted for surface launch)                                                                               |
-| **Range**                    | Up to approximately 25 km (varies depending on missile variant and target)                                                |
-| **Engagement Altitude**      | Up to 15-20 km                                                                                                            |
-| **Reaction Time**            | Less than 10 seconds from target detection to missile launch                                                              |
-| **Mobility**                 | Road-mobile, typically mounted on standard military trucks or trailers                                                    |
-| **Radar**                    | AN/MPQ-64 Sentinel or equivalent, capable of target detection at long ranges                                              |
-| **Command & Control**        | Centralized Fire Distribution Center (FDC) with real-time data processing                                                 |
-| **Networked Architecture**   | Can be integrated with other sensors and command systems such as NATO’s Integrated Air and Missile Defense (IAMD) network |
-
----
-
-### **Operational Scenarios**
-
-- **Point Defense:** Protect critical infrastructure like airports, military bases, power plants, and government facilities.
-- **Area Defense:** Cover a broader area by deploying multiple NASAMS units working together.
-- **Layered Defense Integration:** Combine with long-range systems like the Patriot or S-400 to create multi-tiered defense architectures.
-- **Threat Types Addressed:**
-  - Aircraft and fighter jets
-  - Drones and UAVs
-  - Cruise missiles
-  - Short-range ballistic missiles (with upgrades)
-
----
-
-### **Development and Deployment Considerations**
-
-- **Integration with Existing Systems:** Ensuring compatibility with national and NATO command networks.
-- **Upgradability:** Modular hardware and software for future missile types and sensor upgrades.
-- **Training and Simulation:** Development of realistic training environments for operators using simulation tools.
-- **Maintenance & Logistics:** Establishing supply chains for missiles, spare parts, and system maintenance.
-- **Legal & Strategic:** Compliance with international treaties and strategic stability considerations.
 
 ---
 
