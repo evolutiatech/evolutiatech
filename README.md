@@ -35,7 +35,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ### OBS: Built Nationally Military Engineers with an indefinite period until is a "RETIRED".
 
-• For AI Help: https://www.deepseek.com/ 
+• For AI Help: https://www.deepseek.com 
 
 • For AI TEST LAB GPT4ALL: https://www.nomic.ai/gpt4all
 
