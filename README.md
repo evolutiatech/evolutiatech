@@ -33,6 +33,13 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 <p align="justify">
 
+---
+### To money colletive projects
+
+https://opencollective.com/
+
+---
+
 ### OBS: Built Nationally Military Engineers with an indefinite period until is a "RETIRED".
 
 ---
