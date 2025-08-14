@@ -31,22 +31,6 @@ https://github.com/opencollective
 
 ---
 
-### Air Defense System - NASAMS
-
----
-
-![Image](https://github.com/user-attachments/assets/090f3d13-cdb4-49b9-b218-d59d3e1c2e6a)
-
----
-
-<p align="justify">
-
----
-
-### OBS: Built Nationally Military Engineers with an indefinite period until is a "RETIRED".
-
----
-
 • For AI Help: https://www.deepseek.com 
 
 • For AI Private GPT4ALL - TEST LAB: https://www.nomic.ai/gpt4all
@@ -58,7 +42,20 @@ https://github.com/opencollective
     - https://huggingface.co/datasets
     
     - https://huggingface.co/spaces 
----    
+---  
+
+### Air Defense System - NASAMS
+
+---
+
+![Image](https://github.com/user-attachments/assets/090f3d13-cdb4-49b9-b218-d59d3e1c2e6a)
+
+---
+#### Built Nationally Military Engineers with an indefinite period until is a "RETIRED".
+
+<p align="justify">
+
+---
 
 ### NASAMS (National Advanced Surface-to-Air Missile System) 
 
