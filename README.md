@@ -23,13 +23,15 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
-### Air Defense System - Built Nationally Military Engineers 
+### Air Defense System - NASAMS
 
 ![Image](https://github.com/user-attachments/assets/090f3d13-cdb4-49b9-b218-d59d3e1c2e6a)
 
 <p align="justify"> 
 
 ### NASAMS (National Advanced Surface-to-Air Missile System) 
+
+OBS: Built Nationally Military Engineers with an indefinite period until "retired"
 
 A comprehensive covering additional details about NASAMS, including technical specifications, operational scenarios, development considerations, and how to approach modeling or learning more about the system.
 
