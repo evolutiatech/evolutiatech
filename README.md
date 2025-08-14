@@ -23,6 +23,12 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
+####  The Science of In Fighting
+
+https://youtu.be/YnzXjJC477E
+
+---
+
 #### The Art of High-Impact Kicking
 
 ![Image](https://github.com/user-attachments/assets/4a18052c-8184-47a8-8cdb-00bb2caa0dae)
