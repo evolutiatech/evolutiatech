@@ -39,7 +39,9 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 <p align="justify">
 
+---
 ##### Hypothetical Problem Statement: 
+---
 
 Here's a clearer, rephrased version of your hypothetical problem, along with its formal mathematical model and pseudocode.
 
@@ -53,8 +55,8 @@ Suppose we need to create a weekly service schedule for military personnel. Each
 The goal is to assign personnel to these shifts over a planning period, ensuring fairness, respecting availability, and complying with operational constraints.
 
 ---
-
 #### Computational problem - Trivial Algorithm
+---
 
 • Implement the Pseudoalgorithm in ANSI C89/90 Multiparadigm taking into BIG O complexity.
 
@@ -76,8 +78,8 @@ Overview of the Approach:
             Optionally, reassign to improve fairness.
         Output the final schedule.
 ---
-
 #### Computational problem - Complex Algorithm
+---
 
 • Clarification and Improved Explanation:
 
@@ -136,6 +138,7 @@ How to Implement an Expert System for Scheduling in C (Conceptual Overview):
 
 ---
 #### Recommendation:
+---
 
 • Solve algebra questions, convert to pseudocodigo, and then implemented in ANSI C89/90 Multiparadigms Programming.
 
