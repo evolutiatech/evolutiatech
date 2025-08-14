@@ -29,11 +29,11 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
-• 1. hypothetical problem;
+• 1. Hypothetical problem;
 
 • 2. Mathematical model and pseudocode;
 
-• 3. Computational Model and Implementation.
+• 3. Computational model and implementation.
 
 ---
 
