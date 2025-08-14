@@ -25,7 +25,9 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 #### "Think about math, don't know how to do calculations, go study"
 ---
 
-#### STEPS - Clarification and Explanation (mathematical, physical and chemical model)
+#### Solution to hypothetical calculation problems
+
+**STEPS - Clarification and Explanation (mathematical, physical and chemical model)**
 
 ---
 
