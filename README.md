@@ -118,7 +118,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 - Use **rules-based AI** for target prioritization, e.g., threat level, proximity, velocity.
 - For more advanced AI, consider implementing:
   - **Fuzzy logic** for decision thresholds.
-  - **Neural networks** (though complex in ANSI C89/90; may require external libraries).
+  - **Neural networks** (though complex in ANSI C89/90; may require rewriting external libraries).
   - **Genetic algorithms** for adaptive tactics.
 
 ---
