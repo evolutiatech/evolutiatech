@@ -25,6 +25,9 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ### Developing a computational model of the NASAMS (National Advanced Surface-to-Air Missile System)  
 
+
+![Image](https://github.com/user-attachments/assets/090f3d13-cdb4-49b9-b218-d59d3e1c2e6a)
+
 ---
 #### "Think about math, don't know how to do calculations, go study"
 ---
