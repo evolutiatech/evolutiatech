@@ -31,6 +31,8 @@ https://github.com/opencollective
 
 ---
 
+### AI Personal Development
+
 • For AI Help: https://www.deepseek.com 
 
 • For AI Private GPT4ALL - TEST LAB: https://www.nomic.ai/gpt4all
