@@ -31,6 +31,15 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 <p align="justify"> 
 
+• Incorporating AI and Advanced Decision-Making
+
+    • Use rules-based AI for target prioritization, e.g., threat level, proximity, velocity.
+    • For more advanced AI, consider implementing:
+       • Fuzzy logic for decision thresholds.
+       • Neural networks (though complex in ANSI C89/90; may require external libraries).
+       • Genetic algorithms for adaptive tactics.
+
+
 A comprehensive continuation covering additional details about NASAMS, including technical specifications, operational scenarios, development considerations, and how to approach modeling or learning more about the system.
 
 ---
