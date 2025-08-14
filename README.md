@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 Here's a clearer, rephrased version of your hypothetical problem, along with its formal mathematical model and pseudocode.
 
-##### Hypothetical Problem Statement: Service schedule for military personnel
+##### Hypothetical Problem Statement: 
+
+ • Service schedule for military personnel
 
 Suppose we need to create a weekly service schedule for military personnel. Each week, personnel are assigned to different shifts labeled as:
 
