@@ -25,7 +25,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 #### "Think about math, don't know how to do calculations, go study"
 ---
 
-#### STEPS 
+#### STEPS - Clarification and Explanation
 
 ---
 
