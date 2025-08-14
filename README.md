@@ -23,7 +23,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ---
 
-####  The Science of In Fighting
+#### The Science of In-Fighting By Wong Shun Leung
 
 ![Image](https://github.com/user-attachments/assets/83675678-4787-4da7-9166-5fe7229166a5)
 
@@ -31,7 +31,7 @@ https://youtu.be/YnzXjJC477E
 
 ---
 
-#### The Art of High-Impact Kicking
+#### The Art of High-impact Kicking By Hwang Jang Lee
 
 ![Image](https://github.com/user-attachments/assets/4a18052c-8184-47a8-8cdb-00bb2caa0dae)
 
