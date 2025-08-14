@@ -1,6 +1,8 @@
-### Rebuilding the David Dynasty And Days of Days: JPS Bible
+### Rebuilding the David Dynasty And Days of Days: 
 
-<p align="justify">  
+<p align="justify"> 
+
+**JPS Bible**   
    
 • Amos - Chapter 9: 11 
 
