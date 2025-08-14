@@ -25,8 +25,6 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 ### Air Defense System - NASAMS
 
-### OBS: Built Nationally Military Engineers with an indefinite period until is a "RETIRED".
-
 ---
 
 ![Image](https://github.com/user-attachments/assets/090f3d13-cdb4-49b9-b218-d59d3e1c2e6a)
@@ -40,6 +38,8 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 A comprehensive covering additional details about NASAMS, including technical specifications, operational scenarios, development considerations, and how to approach modeling or learning more about the system.
 
 ---
+
+### OBS: Built Nationally Military Engineers with an indefinite period until is a "RETIRED".
 
 • For AI Help: https://www.deepseek.com/ 
 • For AI TEST: [GPt4ALL and ](https://www.nomic.ai/gpt4all)
