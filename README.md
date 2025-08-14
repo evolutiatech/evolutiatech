@@ -40,9 +40,9 @@ The goal is to assign personnel to these shifts over a planning period, ensuring
 
 ---
 
-#### computational problem
+#### Computational problem
 
-• Computational problem - Implement the Pseudo Algorithm in ANSI C89/90 Multiparadigm taking into account complexity.
+• Implement the Pseudoalgorithm in ANSI C89/90 Multiparadigm taking into BIG O complexity.
 
 I'll help you translate this high-level pseudo-algorithm into a complete ANSI C89/90 program that demonstrates the core scheduling logic with explanations. Due to the constraints of C89/90 and the scope, this example will be simplified and focus on core concepts—initialization, iterative improvement, and assignment considering availability and fairness.
 
