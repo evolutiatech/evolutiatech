@@ -25,7 +25,7 @@ I am a passionate engineer and innovator dedicated to pushing the boundaries of 
 
 #### The Science of In-Fighting By Wong Shun Leung
 
-![Image](https://github.com/user-attachments/assets/83675678-4787-4da7-9166-5fe7229166a5)
+![Image](https://github.com/user-attachments/assets/c4a13e22-4622-4b61-9842-5db827512937)
 
 https://youtu.be/YnzXjJC477E
 
