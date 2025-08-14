@@ -12,7 +12,7 @@
 
 • Malachi - Chapter 3: 23-24 
    
-**Lo, I will send you Elijah the prophet before the coming of the great and awesome day of the Lord, that he may turn the heart of the fathers back through the children, and the heart of the children back through their fathers-lest I come and smite the earth with utter destruction.**
+**Keep in remembrance the teaching of Moses, My servant-the laws and ordinances which I commanded him in Horeb for all Israel. Lo, I will send you Elijah the prophet before the coming of the great and awesome day of the Lord, that he may turn the heart of the fathers back through the children, and the heart of the children back through their fathers-lest I come and smite the earth with utter destruction.**
 </p>
 
 ---
