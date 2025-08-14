@@ -38,6 +38,30 @@ Suppose we need to create a weekly service schedule for military personnel. Each
 
 The goal is to assign personnel to these shifts over a planning period, ensuring fairness, respecting availability, and complying with operational constraints.
 
+---
+
+#### computational problem
+
+• Computational problem - Implement the Pseudo Algorithm in ANSI C89/90 Multiparadigm taking into account complexity.
+
+I'll help you translate this high-level pseudo-algorithm into a complete ANSI C89/90 program that demonstrates the core scheduling logic with explanations. Due to the constraints of C89/90 and the scope, this example will be simplified and focus on core concepts—initialization, iterative improvement, and assignment considering availability and fairness.
+
+Overview of the Approach:
+
+    Data Structures:
+        Use arrays to store personnel info, availability, and assignments.
+        Each iteration attempts to assign personnel to shifts, respecting availability and striving for workload balance.
+
+    Algorithm Steps:
+        Initialize all assignments to unassigned.
+        Loop until convergence or max iterations:
+            For each week and day:
+                Assign personnel based on availability.
+                Ensure only one person per shift.
+            Calculate workload balance.
+            Optionally, reassign to improve fairness.
+        Output the final schedule.
+
 </p>
 
 <p align="justify">
