@@ -144,7 +144,7 @@ Building a **NASAMS simulation with AI features** in **ANSI C89/90** involves:
 
 ---
 
-**Note:** Due to the constraints of ANSI C89/90, advanced AI (like neural networks) is challenging to implement directly; often, heuristic or rule-based systems are more feasible. For complex AI, consider interfacing with external libraries or languages, or precomputing decision rules.
+**Note:** Due to the constraints of ANSI C89/90, advanced AI (like neural networks) is challenging to implement directly; often, heuristic or rule-based systems are more feasible. For complex AI, consider interfacing rewriting external libraries or languages, or precomputing decision rules.
 
 ---
 
