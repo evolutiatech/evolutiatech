@@ -59,8 +59,10 @@ https://github.com/opencollective
 ### Cyberspace - Jammer and fire laser attack
 
 <p align="center">
----    
-####Risk = Threats × Vulnerabilities
+---
+    
+**Risk = Threats × Vulnerabilities**
+
 ---    
 </p>
 ---
