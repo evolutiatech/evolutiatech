@@ -67,7 +67,7 @@ https://github.com/opencollective
 
 <p align="justify">
 <p align="center">
-![Image](https://github.com/user-attachments/assets/fc81f262-bf79-47a0-b704-ca63deada121)
+<img width="732" height="413" alt="Image" src="https://github.com/user-attachments/assets/d409edcb-e091-4e87-8d8c-a99aae472573" />
 </p>
 <p align="center">
 <b>Risk = Threats × Vulnerabilities</b>
