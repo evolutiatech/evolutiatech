@@ -64,8 +64,6 @@ https://github.com/opencollective
 
 <img width="732" height="413" alt="Image" src="https://github.com/user-attachments/assets/96112dd9-34f4-4249-8089-a5db7fc91945" />
 
-Certainly! Here's a state-of-the-art write-up about "Cyberspace - Jammed and Fire Laser Attack":
-
 ---
 
 **State-of-the-Art Overview: Cyberspace – Jammed and Fire Laser Attack**
