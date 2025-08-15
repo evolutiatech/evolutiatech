@@ -68,7 +68,9 @@ https://github.com/opencollective
 <p align="center">
 Risk = Threats × Vulnerabilities
 </p>
+
 ---
+
 <p align="justify">
 
 **Cyberspace – Jammed and Fire Laser Attack**
