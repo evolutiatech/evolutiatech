@@ -53,7 +53,7 @@ https://github.com/opencollective
     - https://huggingface.co/spaces 
 ---  
 
-<p align="justify">
+
 
 
 ### Cyberspace - Jammer and fire laser attack
@@ -64,6 +64,8 @@ https://github.com/opencollective
 
 ---
 
+<p align="justify">
+    
 ### Have you ever thought about taking someone's satellite out of cyberspace?
 
 ---
