@@ -53,14 +53,14 @@ https://github.com/opencollective
     - https://huggingface.co/spaces 
 ---  
 
-### "Hands-On Your Car - Building Your Dreams"
+### "Building Your Dreams" - Hands-On Your Car
+
+---
 
 <p align="justify">
-
 Building Your Own Car: An Overview
-
+    
 Building your own car is an exciting and rewarding project that involves designing, assembling, and customizing a vehicle from scratch or by modifying existing parts. It combines engineering, craftsmanship, creativity, and problem-solving, allowing you to create a vehicle tailored to your preferences and needs.
-
 </p>
 
 ---
