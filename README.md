@@ -84,8 +84,6 @@ Emerging research focuses on AI-powered adaptive attack systems that can autonom
 **Conclusion:**  
 The convergence of cyber and physical attack modalities, exemplified by jamming techniques and fire laser weaponry, underscores a new era of digital warfare. As technology advances, the importance of robust defensive strategies, including AI-powered detection and resilient infrastructure, becomes paramount to mitigate these sophisticated threats.
 
----
-
 </p>
 
 <p align="justify">
