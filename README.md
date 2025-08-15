@@ -55,10 +55,9 @@ https://github.com/opencollective
 
 ### Cyberspace - Jammer and fire laser attack
 
-<p align="center">
----    
-Risk = Threats × Vulnerabilities
 ---
+
+<p align="center">
 
 <img width="732" height="413" alt="Image" src="https://github.com/user-attachments/assets/96112dd9-34f4-4249-8089-a5db7fc91945" />
 
@@ -69,6 +68,10 @@ Risk = Threats × Vulnerabilities
 ---
 
 ### Have you ever thought about taking someone's satellite out of cyberspace?
+
+---    
+Risk = Threats × Vulnerabilities
+---
 
 **State-of-the-Art Overview: Cyberspace – Jammed and Fire Laser Attack**
 
