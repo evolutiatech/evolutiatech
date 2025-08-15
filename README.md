@@ -56,15 +56,15 @@ https://github.com/opencollective
 <p align="justify">
 
 
-### Cyberspace - jammer and fire laser attack
+### Cyberspace - Jammer and fire laser attack
 
 ---
-
-### Have you ever thought about taking someone's satellite out of cyberspace?
 
 <img width="732" height="413" alt="Image" src="https://github.com/user-attachments/assets/96112dd9-34f4-4249-8089-a5db7fc91945" />
 
 ---
+
+### Have you ever thought about taking someone's satellite out of cyberspace?
 
 **State-of-the-Art Overview: Cyberspace – Jammed and Fire Laser Attack**
 
