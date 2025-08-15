@@ -57,7 +57,7 @@ https://github.com/opencollective
 
 ---
 
-<img width="732" height="413" alt="Image" src="https://github.com/user-attachments/assets/96112dd9-34f4-4249-8089-a5db7fc91945" />
+![Image](https://github.com/user-attachments/assets/fc81f262-bf79-47a0-b704-ca63deada121)
 
 ---
 
