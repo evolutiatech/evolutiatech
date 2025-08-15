@@ -55,6 +55,8 @@ https://github.com/opencollective
 
 ### "Building Your Dreams" - Hands-On Your Car
 
+---
+
 ![Image](https://github.com/user-attachments/assets/5e34f186-6a55-4007-a9c8-cc3a40e2ce11)
 
 ---
