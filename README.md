@@ -53,8 +53,39 @@ https://github.com/opencollective
     - https://huggingface.co/spaces 
 ---  
 
-### Hands-On Your Car - Building Your Dreams
+### "Hands-On Your Car - Building Your Dreams"
 
+Basic Steps in Building a Car
+
+    Planning & Design
+        Decide the purpose of your build (show car, daily driver, off-road, etc.).
+        Sketch designs or select plans for the build.
+        Determine the budget and timeline.
+
+    Sourcing Parts & Materials
+        Obtain the chassis, engine, transmission, suspension, wheels, and other components.
+        Consider new, used, or custom parts depending on your project.
+
+    Preparation & Safety
+        Set up a suitable workspace.
+        Gather necessary tools and safety equipment.
+        Understand safety protocols for working with heavy parts and machinery.
+
+    Assembly
+        Follow detailed instructions or plans.
+        Assemble the frame, install the engine, wiring, suspension, and interior.
+        Make sure to align, torque, and secure all components properly.
+
+    Testing & Tuning
+        Check all systems for proper operation.
+        Adjust engine tuning, brakes, and suspension as needed.
+        Perform test drives carefully to ensure safety and performance.
+
+    Finishing Touches
+        Paint and detailing.
+        Interior customization.
+        Final inspections and adjustments.
+        
 ---
 ### Cyberspace - Jammer and fire laser attack
 
