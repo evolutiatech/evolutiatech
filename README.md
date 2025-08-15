@@ -84,7 +84,7 @@ Jamming in cyberspace involves disrupting or overwhelming communication channels
 The "fire laser attack" concept extends beyond traditional cyber intrusion, encompassing the use of directed-energy weapons (DEWs) such as high-powered lasers to disable or destroy physical hardware remotely. These laser systems can be integrated into cyber-physical attack frameworks, where digital commands trigger laser operations against critical infrastructure, or they may operate autonomously in a purely physical context. Recent advancements include the development of portable, high-precision laser weapons capable of targeting sattelites, small drones, sensors, or communication nodes, effectively bridging cyber and physical domains.
 
 **Integration and Future Trends:**  
-State-of-the-art cyber operations increasingly combine electronic jamming and laser attacks to achieve multi-layered disruption. For example, a cyber attack might first disable or manipulate communication networks via jamming, followed by targeted laser strikes on physical infrastructure to prevent recovery or countermeasures.
+Cyber operations increasingly combine electronic jamming and laser attacks to achieve multi-layered disruption. For example, a cyber attack might first disable or manipulate communication networks via jamming, followed by targeted laser strikes on physical infrastructure to prevent recovery or countermeasures.
 
 Emerging research focuses on AI-powered adaptive attack systems that can autonomously select optimal jamming frequencies and laser targeting strategies in real-time, making defense more challenging. Additionally, the development of countermeasures, such as laser-resistant materials and resilient communication protocols, remains a critical area of ongoing research.
 
