@@ -53,7 +53,7 @@ https://github.com/opencollective
     - https://huggingface.co/spaces 
 ---  
 
-### Hands-On Builting Your Dreams Car
+### Hands-On Car - Builting Your Dreams 
 
 ---
 ### Cyberspace - Jammer and fire laser attack
