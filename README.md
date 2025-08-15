@@ -73,6 +73,8 @@ https://github.com/opencollective
 <b>Risk = Threats × Vulnerabilities</b>
 </p>
 
+---
+
 **Cyberspace – Jammed and Fire Laser Attack**
 
 In the rapidly evolving landscape of cybersecurity and digital warfare, the concept of cyberspace has transcended traditional boundaries to encompass complex, high-stakes environments where cyber attacks can manifest as both digital and physical threats. Among these, laser-based cyber attacks—often depicted as "fire laser attacks"—represent a cutting-edge frontier in offensive and defensive strategies.
