@@ -63,6 +63,8 @@ https://github.com/opencollective
 
 ---
 
+### Have you ever thought about taking someone's satellite out of cyberspace?
+
 <p align="center">
 Risk = Threats × Vulnerabilities
 </p>
@@ -70,8 +72,6 @@ Risk = Threats × Vulnerabilities
 ---
 
 <p align="justify">
-
-### Have you ever thought about taking someone's satellite out of cyberspace?
 
 **Cyberspace – Jammed and Fire Laser Attack**
 
