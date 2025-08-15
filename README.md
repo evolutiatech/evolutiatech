@@ -53,9 +53,6 @@ https://github.com/opencollective
     - https://huggingface.co/spaces 
 ---  
 
-
-
-
 ### Cyberspace - Jammer and fire laser attack
 
 --- 
