@@ -58,12 +58,10 @@ https://github.com/opencollective
 --- 
 <p align="center">
 Risk = Threats × Vulnerabilities
-</p>
----
-
+---    
 <img width="732" height="413" alt="Image" src="https://github.com/user-attachments/assets/96112dd9-34f4-4249-8089-a5db7fc91945" />
-
 ---
+</p>
 
 <p align="justify">
     
