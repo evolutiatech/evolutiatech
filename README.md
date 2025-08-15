@@ -55,6 +55,8 @@ https://github.com/opencollective
 
 ### "Hands-On Your Car - Building Your Dreams"
 
+---
+
 Basic Steps in Building a Car
 
     Planning & Design
