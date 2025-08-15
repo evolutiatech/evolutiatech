@@ -60,9 +60,9 @@ https://github.com/opencollective
 ### Have you ever thought about taking someone's satellite out of cyberspace?
 
 ---
-<p align="center">
+
 ![Image](https://github.com/user-attachments/assets/fc81f262-bf79-47a0-b704-ca63deada121)
-</p>
+
 ---
 
 <p align="justify">
