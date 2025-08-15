@@ -65,10 +65,10 @@ Risk = Threats × Vulnerabilities
 </p>
 
 <p align="justify">
-    
-### Have you ever thought about taking someone's satellite out of cyberspace?
 
 ---
+
+### Have you ever thought about taking someone's satellite out of cyberspace?
 
 **State-of-the-Art Overview: Cyberspace – Jammed and Fire Laser Attack**
 
