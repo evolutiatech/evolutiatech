@@ -110,6 +110,12 @@ Basic Steps in Building a Car
 
 ![Image](https://github.com/user-attachments/assets/033c50d1-c027-454d-98e6-b489e7344999)
 
+---
+
+![Image](https://github.com/user-attachments/assets/fac70da0-d239-48d8-8a59-5a82eef78427)
+
+---
+
 <p align="justify">
 
 Building an engine block casting mold is a complex process requiring significant expertise and equipment.  It's not a simple project for a beginner.  Here's a breakdown of the key steps and considerations, but please remember that safety and proper material handling are paramount:
