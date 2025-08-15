@@ -57,8 +57,6 @@ https://github.com/opencollective
 
 ---
 
----
-
 ### Have you ever thought about taking someone's satellite out of cyberspace?
 
 ---
