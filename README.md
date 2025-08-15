@@ -56,7 +56,7 @@ https://github.com/opencollective
 <p align="justify">
 
 
-### Cyberspace
+### Cyberspace - jammer and fire laser attack
 
 <img width="732" height="413" alt="Image" src="https://github.com/user-attachments/assets/96112dd9-34f4-4249-8089-a5db7fc91945" />
 
