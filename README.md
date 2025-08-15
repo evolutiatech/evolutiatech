@@ -100,9 +100,15 @@ Basic Steps in Building a Car
         
 ---
 
-### Building an engine block casting mold
+### Building an Parts with casting mold 3D
+
+---
 
 ![Image](https://github.com/user-attachments/assets/7b1bca4a-e27b-4e31-b83d-7cb5488552ab)
+
+---
+
+![Image](https://github.com/user-attachments/assets/033c50d1-c027-454d-98e6-b489e7344999)
 
 <p align="justify">
 
